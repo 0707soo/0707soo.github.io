@@ -16,7 +16,7 @@
       </section>
 
       <section class="widget-row">
-        <article class="calendar-card stack-a" id="calendar-card">
+        <article class="calendar-card" id="calendar-card">
           <div class="calendar-header">
             <button id="prev-month" class="nav-btn" aria-label="previous month">‹</button>
             <div id="calendar-title" class="calendar-title">0000년 00월</div>
@@ -34,6 +34,25 @@
           <div id="calendar-grid" class="calendar-grid"></div>
         </article>
       </section>
+
+      <section class="notice-row">
+        <article class="notice-card">
+          <div class="notice-head">
+            <p class="notice-label" id="notice-label">Latest notices</p>
+            <a
+              class="notice-link"
+              href="https://mabinogi.nexon.com/page/news/notice_list.asp"
+              target="_blank"
+              rel="noreferrer"
+              id="notice-more"
+              >View source</a
+            >
+          </div>
+          <ul id="notice-list" class="notice-list">
+            <li class="notice-item notice-loading">Loading latest notices…</li>
+          </ul>
+        </article>
+      </section>
     </main>
 
     <script>
@@ -41,11 +60,21 @@
       const dateLineEl = document.getElementById('date-line');
       const calendarTitleEl = document.getElementById('calendar-title');
       const calendarGridEl = document.getElementById('calendar-grid');
+      const noticeLabelEl = document.getElementById('notice-label');
+      const noticeMoreEl = document.getElementById('notice-more');
+      const noticeListEl = document.getElementById('notice-list');
       const prevBtn = document.getElementById('prev-month');
       const nextBtn = document.getElementById('next-month');
 
       const locale = (navigator.language || 'en').toLowerCase();
       const isKorean = locale.startsWith('ko');
+      const copy = {
+        noticeTitle: isKorean ? '마비노기 공지사항' : 'Mabinogi notices',
+        noticeMore: isKorean ? '공지 페이지' : 'View source',
+        loading: isKorean ? '최신 공지사항을 불러오는 중…' : 'Loading latest notices…',
+        empty: isKorean ? '표시할 공지사항이 없습니다.' : 'No notices available.',
+        failed: isKorean ? '공지사항을 불러오지 못했습니다.' : 'Could not load notices.',
+      };
       const weekdayKo = ['일요일', '월요일', '화요일', '수요일', '목요일', '금요일', '토요일'];
       const weekdayEn = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
       const monthState = { year: new Date().getFullYear(), month: new Date().getMonth() };
@@ -118,6 +147,39 @@
         renderCalendar();
       });
 
+      async function renderNotices() {
+        noticeLabelEl.textContent = copy.noticeTitle;
+        noticeMoreEl.textContent = copy.noticeMore;
+        noticeListEl.innerHTML = `<li class="notice-item notice-loading">${copy.loading}</li>`;
+
+        try {
+          const response = await fetch('./notices.json', { cache: 'no-store' });
+          if (!response.ok) throw new Error('notice fetch failed');
+          const data = await response.json();
+          const items = Array.isArray(data.items) ? data.items : [];
+
+          if (!items.length) {
+            noticeListEl.innerHTML = `<li class="notice-item notice-empty">${copy.empty}</li>`;
+            return;
+          }
+
+          noticeListEl.innerHTML = items
+            .map(
+              (item) => `
+                <li class="notice-item">
+                  <a class="notice-anchor" href="${item.url}" target="_blank" rel="noreferrer">
+                    <span class="notice-title">${item.title}</span>
+                    <span class="notice-date">${item.date}</span>
+                  </a>
+                </li>
+              `
+            )
+            .join('');
+        } catch (error) {
+          noticeListEl.innerHTML = `<li class="notice-item notice-empty">${copy.failed}</li>`;
+        }
+      }
+
       const weekdayShortKo = ['일', '월', '화', '수', '목', '금', '토'];
       const weekdayShortEn = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
       const weekdayLabels = isKorean ? weekdayShortKo : weekdayShortEn;
@@ -127,6 +189,7 @@
 
       updateClock();
       renderCalendar();
+      renderNotices();
       setInterval(updateClock, 1000);
     </script>
   </body>
