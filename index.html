@@ -4,76 +4,115 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>front page</title>
-    <meta
-      name="description"
-      content="A quiet front for projects that are still taking shape."
-    />
+    <meta name="description" content="A quiet front with a live clock and calendar." />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <div class="aurora aurora-a"></div>
-    <div class="aurora aurora-b"></div>
-
     <main class="shell">
-      <div class="grid"></div>
-
-      <header class="topbar">
-        <p class="brand">front page</p>
-        <div class="signal" aria-live="polite">
-          <span class="signal-dot"></span>
-          <span>live draft</span>
+      <section class="time-panel">
+        <p class="eyebrow">front page</p>
+        <div class="clock-wrap">
+          <div id="clock" class="clock">00:00:00</div>
+          <div id="date-line" class="date-line">0000. 00. 00. 월요일</div>
         </div>
-      </header>
-
-      <section class="hero">
-        <div class="hero-copy">
-          <p class="eyebrow">quietly building</p>
-          <h1>Preparing projects for release.</h1>
-          <p class="lead">
-            This front stays intentionally minimal for now. Public work will appear here once each
-            project is ready to stand on its own.
-          </p>
-
-          <div class="status-pill" aria-live="polite">
-            <span class="dot"></span>
-            <span class="dot"></span>
-            <span class="dot"></span>
-            <span class="status-text">currently updating</span>
-          </div>
-        </div>
-
-        <aside class="status-card" aria-label="site status">
-          <p class="card-label">status</p>
-          <p class="card-value">standby</p>
-          <p class="card-copy">
-            The frame is online. Visible projects will be attached when they are ready for public
-            view.
-          </p>
-
-          <div class="scanlines">
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
-        </aside>
+        <p class="lead">A quiet front. Projects will be linked here when they are ready.</p>
       </section>
 
-      <section class="lower">
-        <article class="note">
-          <p class="note-title">current state</p>
-          <p class="note-copy">
-            Empty by design. No filler cards, no fake metrics, no placeholder project counts.
-          </p>
-        </article>
-
-        <article class="note note-soft">
-          <p class="note-title">next phase</p>
-          <p class="note-copy">
-            When a project is actually present, this page will shift from holding front to project
-            index.
-          </p>
-        </article>
+      <section class="calendar-panel">
+        <div class="calendar-header">
+          <button id="prev-month" class="nav-btn" aria-label="previous month">‹</button>
+          <div id="calendar-title" class="calendar-title">0000년 00월</div>
+          <button id="next-month" class="nav-btn" aria-label="next month">›</button>
+        </div>
+        <div class="weekdays">
+          <span>Sun</span>
+          <span>Mon</span>
+          <span>Tue</span>
+          <span>Wed</span>
+          <span>Thu</span>
+          <span>Fri</span>
+          <span>Sat</span>
+        </div>
+        <div id="calendar-grid" class="calendar-grid"></div>
       </section>
     </main>
+
+    <script>
+      const clockEl = document.getElementById('clock');
+      const dateLineEl = document.getElementById('date-line');
+      const calendarTitleEl = document.getElementById('calendar-title');
+      const calendarGridEl = document.getElementById('calendar-grid');
+      const prevBtn = document.getElementById('prev-month');
+      const nextBtn = document.getElementById('next-month');
+
+      const weekdayKo = ['일요일', '월요일', '화요일', '수요일', '목요일', '금요일', '토요일'];
+      const monthState = { year: new Date().getFullYear(), month: new Date().getMonth() };
+
+      function pad(n) {
+        return String(n).padStart(2, '0');
+      }
+
+      function updateClock() {
+        const now = new Date();
+        clockEl.textContent = `${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`;
+        dateLineEl.textContent = `${now.getFullYear()}. ${pad(now.getMonth() + 1)}. ${pad(now.getDate())}. ${weekdayKo[now.getDay()]}`;
+      }
+
+      function renderCalendar() {
+        const { year, month } = monthState;
+        const firstDay = new Date(year, month, 1);
+        const lastDate = new Date(year, month + 1, 0).getDate();
+        const startWeekday = firstDay.getDay();
+        const today = new Date();
+
+        calendarTitleEl.textContent = `${year}년 ${pad(month + 1)}월`;
+        calendarGridEl.innerHTML = '';
+
+        for (let i = 0; i < startWeekday; i += 1) {
+          const empty = document.createElement('div');
+          empty.className = 'day empty';
+          calendarGridEl.appendChild(empty);
+        }
+
+        for (let day = 1; day <= lastDate; day += 1) {
+          const cell = document.createElement('div');
+          cell.className = 'day';
+          cell.textContent = day;
+
+          const isToday =
+            year === today.getFullYear() &&
+            month === today.getMonth() &&
+            day === today.getDate();
+
+          if (isToday) {
+            cell.classList.add('today');
+          }
+
+          calendarGridEl.appendChild(cell);
+        }
+      }
+
+      prevBtn.addEventListener('click', () => {
+        monthState.month -= 1;
+        if (monthState.month < 0) {
+          monthState.month = 11;
+          monthState.year -= 1;
+        }
+        renderCalendar();
+      });
+
+      nextBtn.addEventListener('click', () => {
+        monthState.month += 1;
+        if (monthState.month > 11) {
+          monthState.month = 0;
+          monthState.year += 1;
+        }
+        renderCalendar();
+      });
+
+      updateClock();
+      renderCalendar();
+      setInterval(updateClock, 1000);
+    </script>
   </body>
 </html>
