@@ -4,24 +4,75 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>front page</title>
-    <meta name="description" content="Preparing projects." />
+    <meta
+      name="description"
+      content="A quiet front for projects that are still taking shape."
+    />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
+    <div class="aurora aurora-a"></div>
+    <div class="aurora aurora-b"></div>
+
     <main class="shell">
-      <div class="noise"></div>
-      <section class="hero">
-        <p class="eyebrow">front page</p>
-        <h1>Preparing projects</h1>
-        <p class="lead">
-          This front is being arranged. Public projects will appear here when they are ready.
-        </p>
-        <div class="status" aria-live="polite">
-          <span class="dot"></span>
-          <span class="dot"></span>
-          <span class="dot"></span>
-          <span class="status-text">currently updating</span>
+      <div class="grid"></div>
+
+      <header class="topbar">
+        <p class="brand">front page</p>
+        <div class="signal" aria-live="polite">
+          <span class="signal-dot"></span>
+          <span>live draft</span>
         </div>
+      </header>
+
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">quietly building</p>
+          <h1>Preparing projects for release.</h1>
+          <p class="lead">
+            This front stays intentionally minimal for now. Public work will appear here once each
+            project is ready to stand on its own.
+          </p>
+
+          <div class="status-pill" aria-live="polite">
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="status-text">currently updating</span>
+          </div>
+        </div>
+
+        <aside class="status-card" aria-label="site status">
+          <p class="card-label">status</p>
+          <p class="card-value">standby</p>
+          <p class="card-copy">
+            The frame is online. Visible projects will be attached when they are ready for public
+            view.
+          </p>
+
+          <div class="scanlines">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </aside>
+      </section>
+
+      <section class="lower">
+        <article class="note">
+          <p class="note-title">current state</p>
+          <p class="note-copy">
+            Empty by design. No filler cards, no fake metrics, no placeholder project counts.
+          </p>
+        </article>
+
+        <article class="note note-soft">
+          <p class="note-title">next phase</p>
+          <p class="note-copy">
+            When a project is actually present, this page will shift from holding front to project
+            index.
+          </p>
+        </article>
       </section>
     </main>
   </body>
