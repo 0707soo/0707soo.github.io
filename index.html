@@ -15,7 +15,7 @@
         <div id="date-line" class="date-line">0000. 00. 00. Monday</div>
       </section>
 
-      <section class="widget-row">
+      <section class="widget-grid">
         <article class="calendar-card" id="calendar-card">
           <div class="calendar-header">
             <button id="prev-month" class="nav-btn" aria-label="previous month">‹</button>
@@ -33,9 +33,7 @@
           </div>
           <div id="calendar-grid" class="calendar-grid"></div>
         </article>
-      </section>
 
-      <section class="notice-row">
         <article class="notice-card">
           <div class="notice-head">
             <p class="notice-label" id="notice-label">Latest notices</p>
@@ -74,6 +72,7 @@
         loading: isKorean ? '최신 공지사항을 불러오는 중…' : 'Loading latest notices…',
         empty: isKorean ? '표시할 공지사항이 없습니다.' : 'No notices available.',
         failed: isKorean ? '공지사항을 불러오지 못했습니다.' : 'Could not load notices.',
+        maintenance: isKorean ? '현재 점검 중이거나 공지 목록을 불러올 수 없습니다.' : 'Maintenance may be in progress or the notice list is unavailable.',
       };
       const weekdayKo = ['일요일', '월요일', '화요일', '수요일', '목요일', '금요일', '토요일'];
       const weekdayEn = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
@@ -157,6 +156,16 @@
           if (!response.ok) throw new Error('notice fetch failed');
           const data = await response.json();
           const items = Array.isArray(data.items) ? data.items : [];
+
+          if (data.status === 'maintenance') {
+            noticeListEl.innerHTML = `<li class="notice-item notice-empty">${copy.maintenance}</li>`;
+            return;
+          }
+
+          if (data.status === 'unavailable') {
+            noticeListEl.innerHTML = `<li class="notice-item notice-empty">${copy.failed}</li>`;
+            return;
+          }
 
           if (!items.length) {
             noticeListEl.innerHTML = `<li class="notice-item notice-empty">${copy.empty}</li>`;
