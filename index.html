@@ -16,7 +16,7 @@
       </section>
 
       <section class="widget-row">
-        <article class="calendar-card">
+        <article class="calendar-card stack-a" id="calendar-card">
           <div class="calendar-header">
             <button id="prev-month" class="nav-btn" aria-label="previous month">‹</button>
             <div id="calendar-title" class="calendar-title">0000년 00월</div>
@@ -41,6 +41,7 @@
       const dateLineEl = document.getElementById('date-line');
       const calendarTitleEl = document.getElementById('calendar-title');
       const calendarGridEl = document.getElementById('calendar-grid');
+      const calendarCardEl = document.getElementById('calendar-card');
       const prevBtn = document.getElementById('prev-month');
       const nextBtn = document.getElementById('next-month');
 
@@ -98,7 +99,25 @@
         }
       }
 
-      prevBtn.addEventListener('click', () => {
+      function rotateStack() {
+        if (calendarCardEl.classList.contains('stack-a')) {
+          calendarCardEl.classList.remove('stack-a');
+          calendarCardEl.classList.add('stack-b');
+        } else if (calendarCardEl.classList.contains('stack-b')) {
+          calendarCardEl.classList.remove('stack-b');
+          calendarCardEl.classList.add('stack-c');
+        } else {
+          calendarCardEl.classList.remove('stack-c');
+          calendarCardEl.classList.add('stack-a');
+        }
+
+        calendarCardEl.classList.remove('tap');
+        void calendarCardEl.offsetWidth;
+        calendarCardEl.classList.add('tap');
+      }
+
+      prevBtn.addEventListener('click', (event) => {
+        event.stopPropagation();
         monthState.month -= 1;
         if (monthState.month < 0) {
           monthState.month = 11;
@@ -107,13 +126,19 @@
         renderCalendar();
       });
 
-      nextBtn.addEventListener('click', () => {
+      nextBtn.addEventListener('click', (event) => {
+        event.stopPropagation();
         monthState.month += 1;
         if (monthState.month > 11) {
           monthState.month = 0;
           monthState.year += 1;
         }
         renderCalendar();
+      });
+
+      calendarCardEl.addEventListener('click', rotateStack);
+      calendarCardEl.addEventListener('animationend', () => {
+        calendarCardEl.classList.remove('tap');
       });
 
       const weekdayShortKo = ['일', '월', '화', '수', '목', '금', '토'];
