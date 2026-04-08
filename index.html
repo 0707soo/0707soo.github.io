@@ -100,17 +100,8 @@
       }
 
       function rotateStack() {
-        if (calendarCardEl.classList.contains('stack-a')) {
-          calendarCardEl.classList.remove('stack-a');
-          calendarCardEl.classList.add('stack-b');
-        } else if (calendarCardEl.classList.contains('stack-b')) {
-          calendarCardEl.classList.remove('stack-b');
-          calendarCardEl.classList.add('stack-c');
-        } else {
-          calendarCardEl.classList.remove('stack-c');
-          calendarCardEl.classList.add('stack-a');
-        }
-
+        if (calendarCardEl.classList.contains('sliding')) return;
+        calendarCardEl.classList.add('sliding');
         calendarCardEl.classList.remove('tap');
         void calendarCardEl.offsetWidth;
         calendarCardEl.classList.add('tap');
@@ -137,8 +128,21 @@
       });
 
       calendarCardEl.addEventListener('click', rotateStack);
-      calendarCardEl.addEventListener('animationend', () => {
-        calendarCardEl.classList.remove('tap');
+      calendarCardEl.addEventListener('animationend', (event) => {
+        if (event.animationName === 'cardSlide') {
+          if (calendarCardEl.classList.contains('stack-a')) {
+            calendarCardEl.classList.remove('stack-a');
+            calendarCardEl.classList.add('stack-b');
+          } else if (calendarCardEl.classList.contains('stack-b')) {
+            calendarCardEl.classList.remove('stack-b');
+            calendarCardEl.classList.add('stack-c');
+          } else {
+            calendarCardEl.classList.remove('stack-c');
+            calendarCardEl.classList.add('stack-a');
+          }
+          calendarCardEl.classList.remove('sliding');
+          calendarCardEl.classList.remove('tap');
+        }
       });
 
       const weekdayShortKo = ['일', '월', '화', '수', '목', '금', '토'];
