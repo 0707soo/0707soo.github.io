@@ -3,19 +3,18 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>front page</title>
-    <meta name="description" content="A quiet front with a live clock and calendar." />
+    <title>SAMPLE</title>
+    <meta name="description" content="Live clock and calendar." />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <main class="shell">
       <section class="time-panel">
-        <p class="eyebrow">front page</p>
+        <p class="eyebrow">SAMPLE</p>
         <div class="clock-wrap">
           <div id="clock" class="clock">00:00:00</div>
-          <div id="date-line" class="date-line">0000. 00. 00. 월요일</div>
+          <div id="date-line" class="date-line">0000. 00. 00. Monday</div>
         </div>
-        <p class="lead">A quiet front. Projects will be linked here when they are ready.</p>
       </section>
 
       <section class="calendar-panel">
@@ -25,13 +24,13 @@
           <button id="next-month" class="nav-btn" aria-label="next month">›</button>
         </div>
         <div class="weekdays">
-          <span>Sun</span>
-          <span>Mon</span>
-          <span>Tue</span>
-          <span>Wed</span>
-          <span>Thu</span>
-          <span>Fri</span>
-          <span>Sat</span>
+          <span id="wd0">Sun</span>
+          <span id="wd1">Mon</span>
+          <span id="wd2">Tue</span>
+          <span id="wd3">Wed</span>
+          <span id="wd4">Thu</span>
+          <span id="wd5">Fri</span>
+          <span id="wd6">Sat</span>
         </div>
         <div id="calendar-grid" class="calendar-grid"></div>
       </section>
@@ -45,7 +44,10 @@
       const prevBtn = document.getElementById('prev-month');
       const nextBtn = document.getElementById('next-month');
 
+      const locale = (navigator.language || 'en').toLowerCase();
+      const isKorean = locale.startsWith('ko');
       const weekdayKo = ['일요일', '월요일', '화요일', '수요일', '목요일', '금요일', '토요일'];
+      const weekdayEn = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
       const monthState = { year: new Date().getFullYear(), month: new Date().getMonth() };
 
       function pad(n) {
@@ -55,7 +57,9 @@
       function updateClock() {
         const now = new Date();
         clockEl.textContent = `${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`;
-        dateLineEl.textContent = `${now.getFullYear()}. ${pad(now.getMonth() + 1)}. ${pad(now.getDate())}. ${weekdayKo[now.getDay()]}`;
+        dateLineEl.textContent = isKorean
+          ? `${now.getFullYear()}. ${pad(now.getMonth() + 1)}. ${pad(now.getDate())}. ${weekdayKo[now.getDay()]}`
+          : `${now.getFullYear()}. ${pad(now.getMonth() + 1)}. ${pad(now.getDate())}. ${weekdayEn[now.getDay()]}`;
       }
 
       function renderCalendar() {
@@ -65,7 +69,9 @@
         const startWeekday = firstDay.getDay();
         const today = new Date();
 
-        calendarTitleEl.textContent = `${year}년 ${pad(month + 1)}월`;
+        calendarTitleEl.textContent = isKorean
+          ? `${year}년 ${pad(month + 1)}월`
+          : `${year} / ${pad(month + 1)}`;
         calendarGridEl.innerHTML = '';
 
         for (let i = 0; i < startWeekday; i += 1) {
@@ -108,6 +114,13 @@
           monthState.year += 1;
         }
         renderCalendar();
+      });
+
+      const weekdayShortKo = ['일', '월', '화', '수', '목', '금', '토'];
+      const weekdayShortEn = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+      const weekdayLabels = isKorean ? weekdayShortKo : weekdayShortEn;
+      weekdayLabels.forEach((label, index) => {
+        document.getElementById(`wd${index}`).textContent = label;
       });
 
       updateClock();
