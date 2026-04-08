@@ -115,6 +115,7 @@
           monthState.year -= 1;
         }
         renderCalendar();
+        rotateStack();
       });
 
       nextBtn.addEventListener('click', (event) => {
@@ -125,9 +126,9 @@
           monthState.year += 1;
         }
         renderCalendar();
+        rotateStack();
       });
 
-      calendarCardEl.addEventListener('click', rotateStack);
       calendarCardEl.addEventListener('animationend', (event) => {
         if (event.animationName === 'cardSlide') {
           if (calendarCardEl.classList.contains('stack-a')) {
