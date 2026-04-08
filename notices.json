@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-08T14:51:38.239218+00:00",
+  "updatedAt": "2026-04-08T16:10:15.021997+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -41,16 +41,16 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893448"
     },
     {
-      "id": "4893443",
-      "title": "로열 나이츠 박스",
-      "date": "2026.03.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893443"
-    },
-    {
       "id": "4893428",
       "title": "(수정) 밀레시안 오리엔테이션",
       "date": "2026.03.12",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893428"
+    },
+    {
+      "id": "4893416",
+      "title": "판의 출석체크판 안내",
+      "date": "2026.03.05",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893416"
     }
   ]
 }
