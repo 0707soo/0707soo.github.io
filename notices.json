@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-08T23:57:23.823399+00:00",
+  "updatedAt": "2026-04-09T02:05:19.255104+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -29,18 +29,6 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893415"
     },
     {
-      "id": "4893451",
-      "title": "2026 만우절 이벤트 속닥속닥 만우절 파티!",
-      "date": "2026.04.01",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893451"
-    },
-    {
-      "id": "4893448",
-      "title": "4월 마비노기 커넥트 현장 참관 신청 및 사전 설문조사 안내",
-      "date": "2026.03.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893448"
-    },
-    {
       "id": "4893428",
       "title": "(수정) 밀레시안 오리엔테이션",
       "date": "2026.03.12",
@@ -51,6 +39,18 @@
       "title": "판의 출석체크판 안내",
       "date": "2026.03.05",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893416"
+    },
+    {
+      "id": "4893280",
+      "title": "미스틱 아틀리에 S2",
+      "date": "2026.01.15",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893280"
+    },
+    {
+      "id": "4892636",
+      "title": "카라젝의 모험 상자",
+      "date": "2025.03.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4892636"
     }
   ]
 }
