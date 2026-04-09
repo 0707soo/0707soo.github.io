@@ -1,20 +1,38 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-09T02:05:19.255104+00:00",
+  "updatedAt": "2026-04-09T04:43:59.523500+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893461",
+      "title": "4/16(목) 테스트 서버 초기화 & 정식 서버 캐릭터 복사 일정 안내",
+      "date": "2026.04.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893461"
+    },
+    {
+      "id": "4893460",
+      "title": "마비노기X바람의나라 콜라보 이벤트 안내",
+      "date": "2026.04.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893460"
+    },
+    {
+      "id": "4893459",
+      "title": "미드나잇 파빌리온 박스",
+      "date": "2026.04.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893459"
+    },
+    {
+      "id": "4893458",
+      "title": "4/9(목) 정식 서버 점검 안내(06:00~13:00)",
+      "date": "2026.04.07",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893458"
+    },
     {
       "id": "4893457",
       "title": "(수정) 4/9(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.04.07",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893457"
-    },
-    {
-      "id": "4893455",
-      "title": "4/3(금) 운영정책 위반 단속 결과 안내",
-      "date": "2026.04.03",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893455"
     },
     {
       "id": "4893442",
@@ -33,24 +51,6 @@
       "title": "(수정) 밀레시안 오리엔테이션",
       "date": "2026.03.12",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893428"
-    },
-    {
-      "id": "4893416",
-      "title": "판의 출석체크판 안내",
-      "date": "2026.03.05",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893416"
-    },
-    {
-      "id": "4893280",
-      "title": "미스틱 아틀리에 S2",
-      "date": "2026.01.15",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893280"
-    },
-    {
-      "id": "4892636",
-      "title": "카라젝의 모험 상자",
-      "date": "2025.03.13",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4892636"
     }
   ]
 }
