@@ -1,9 +1,27 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-14T08:58:52.186463+00:00",
+  "updatedAt": "2026-04-14T10:17:02.734368+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893465",
+      "title": "4/16(목) 정식 서버 점검 안내(07:00~12:00)",
+      "date": "2026.04.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893465"
+    },
+    {
+      "id": "4893464",
+      "title": "4/16(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.04.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893464"
+    },
+    {
+      "id": "4893462",
+      "title": "4/9(목) 패치 후 확인된 현상 안내",
+      "date": "2026.04.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893462"
+    },
     {
       "id": "4893461",
       "title": "4/16(목) 테스트 서버 초기화 & 정식 서버 캐릭터 복사 일정 안내",
@@ -33,24 +51,6 @@
       "title": "(수정) 4/9(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.04.07",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893457"
-    },
-    {
-      "id": "4893442",
-      "title": "‘바람의나라 30주년 어셈블 스페셜 쿠폰’ 이벤트 안내",
-      "date": "2026.04.02",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893442"
-    },
-    {
-      "id": "4893415",
-      "title": "2026 마비노기 판타지 파티 사전 안내",
-      "date": "2026.04.02",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893415"
-    },
-    {
-      "id": "4893428",
-      "title": "(수정) 밀레시안 오리엔테이션",
-      "date": "2026.03.12",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893428"
     }
   ]
 }
