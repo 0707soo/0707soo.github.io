@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-15T03:45:43.197268+00:00",
+  "updatedAt": "2026-04-15T05:55:51.470316+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -12,7 +12,7 @@
     },
     {
       "id": "4893464",
-      "title": "4/16(목) 정식 서버 패치 작업 변경점 안내",
+      "title": "(수정) 4/16(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.04.14",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893464"
     },
