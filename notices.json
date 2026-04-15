@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-15T05:55:51.470316+00:00",
+  "updatedAt": "2026-04-15T07:22:37.600946+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -21,12 +21,6 @@
       "title": "4/9(목) 패치 후 확인된 현상 안내",
       "date": "2026.04.09",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893462"
-    },
-    {
-      "id": "4893461",
-      "title": "4/16(목) 테스트 서버 초기화 & 정식 서버 캐릭터 복사 일정 안내",
-      "date": "2026.04.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893461"
     },
     {
       "id": "4893460",
@@ -51,6 +45,12 @@
       "title": "(수정) 4/9(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.04.07",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893457"
+    },
+    {
+      "id": "4893442",
+      "title": "‘바람의나라 30주년 어셈블 스페셜 쿠폰’ 이벤트 안내",
+      "date": "2026.04.02",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893442"
     }
   ]
 }
