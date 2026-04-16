@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-15T23:07:22.540058+00:00",
+  "updatedAt": "2026-04-16T00:03:55.558042+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -29,18 +29,6 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893459"
     },
     {
-      "id": "4893458",
-      "title": "4/9(목) 정식 서버 점검 안내(06:00~13:00)",
-      "date": "2026.04.07",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893458"
-    },
-    {
-      "id": "4893457",
-      "title": "(수정) 4/9(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.04.07",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893457"
-    },
-    {
       "id": "4893442",
       "title": "‘바람의나라 30주년 어셈블 스페셜 쿠폰’ 이벤트 안내",
       "date": "2026.04.02",
@@ -51,6 +39,18 @@
       "title": "2026 마비노기 판타지 파티 사전 안내",
       "date": "2026.04.02",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893415"
+    },
+    {
+      "id": "4893416",
+      "title": "판의 출석체크판 안내",
+      "date": "2026.03.05",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893416"
+    },
+    {
+      "id": "4893280",
+      "title": "미스틱 아틀리에 S2",
+      "date": "2026.01.15",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893280"
     }
   ]
 }
