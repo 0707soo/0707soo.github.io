@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-16T00:03:55.558042+00:00",
+  "updatedAt": "2026-04-16T03:51:19.847251+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893466",
+      "title": "4/16(목) 테스트 서버 점검 안내(07:00~15:00)",
+      "date": "2026.04.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893466"
+    },
     {
       "id": "4893465",
       "title": "4/16(목) 정식 서버 점검 안내(07:00~12:00)",
@@ -45,12 +51,6 @@
       "title": "판의 출석체크판 안내",
       "date": "2026.03.05",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893416"
-    },
-    {
-      "id": "4893280",
-      "title": "미스틱 아틀리에 S2",
-      "date": "2026.01.15",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893280"
     }
   ]
 }
