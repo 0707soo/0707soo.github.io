@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-16T03:51:19.847251+00:00",
+  "updatedAt": "2026-04-16T05:56:22.210013+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893469",
+      "title": "4월 '마비노기 커넥트' 현장 참석 고객 안내",
+      "date": "2026.04.16",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893469"
+    },
     {
       "id": "4893466",
       "title": "4/16(목) 테스트 서버 점검 안내(07:00~15:00)",
@@ -45,12 +51,6 @@
       "title": "2026 마비노기 판타지 파티 사전 안내",
       "date": "2026.04.02",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893415"
-    },
-    {
-      "id": "4893416",
-      "title": "판의 출석체크판 안내",
-      "date": "2026.03.05",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893416"
     }
   ]
 }
