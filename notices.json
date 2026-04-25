@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-25T05:43:42.430584+00:00",
+  "updatedAt": "2026-04-25T07:03:44.130092+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -9,12 +9,6 @@
       "title": "4/23(목) 패치 후 확인된 현상 안내",
       "date": "2026.04.23",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893485"
-    },
-    {
-      "id": "4893483",
-      "title": "4/25(토) 4월 '마비노기 커넥트' 진행에 따른 경매장/넥슨마켓 이용 일시 중단 안내",
-      "date": "2026.04.23",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893483"
     },
     {
       "id": "4893484",
@@ -51,6 +45,12 @@
       "title": "마비노기X바람의나라 콜라보 이벤트 안내",
       "date": "2026.04.09",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893460"
+    },
+    {
+      "id": "4893459",
+      "title": "미드나잇 파빌리온 박스",
+      "date": "2026.04.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893459"
     }
   ]
 }
