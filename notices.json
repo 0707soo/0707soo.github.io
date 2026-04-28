@@ -1,9 +1,27 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-28T08:09:38.267940+00:00",
+  "updatedAt": "2026-04-28T10:29:08.217426+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893489",
+      "title": "4/30(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.04.28",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893489"
+    },
+    {
+      "id": "4893488",
+      "title": "4/30(목) 정식 서버 점검 안내(06:30~12:00)",
+      "date": "2026.04.28",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893488"
+    },
+    {
+      "id": "4893495",
+      "title": "밀레시안 여러분의 말씀을 마음 깊이 새기며",
+      "date": "2026.04.27",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893495"
+    },
     {
       "id": "4893487",
       "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
@@ -17,28 +35,10 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893486"
     },
     {
-      "id": "4893485",
-      "title": "4/23(목) 패치 후 확인된 현상 안내",
-      "date": "2026.04.23",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893485"
-    },
-    {
-      "id": "4893484",
-      "title": "4/23(목) 테스트 서버 패치 작업 변경점 안내",
-      "date": "2026.04.23",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893484"
-    },
-    {
       "id": "4893480",
       "title": "4/30(목) 엉뚱한/수줍은/도도한/차분한 모모 개선 안내",
       "date": "2026.04.23",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893480"
-    },
-    {
-      "id": "4893477",
-      "title": "4/23(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.04.21",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893477"
     },
     {
       "id": "4893468",
