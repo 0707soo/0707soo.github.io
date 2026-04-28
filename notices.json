@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-28T12:10:41.403680+00:00",
+  "updatedAt": "2026-04-28T17:09:01.530562+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -35,6 +35,12 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893486"
     },
     {
+      "id": "4893485",
+      "title": "(내용추가1) 4/23(목) 패치 후 확인된 현상 안내",
+      "date": "2026.04.23",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893485"
+    },
+    {
       "id": "4893480",
       "title": "4/30(목) 엉뚱한/수줍은/도도한/차분한 모모 개선 안내",
       "date": "2026.04.23",
@@ -45,12 +51,6 @@
       "title": "4월 세인트 바드, 세이크리드 가드 개편 공개 테스트 서버 버그 리포트 이벤트 안내",
       "date": "2026.04.16",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893468"
-    },
-    {
-      "id": "4893460",
-      "title": "마비노기X바람의나라 콜라보 이벤트 안내",
-      "date": "2026.04.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893460"
     }
   ]
 }
