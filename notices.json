@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-28T17:09:01.530562+00:00",
+  "updatedAt": "2026-04-28T19:00:09.523016+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893497",
+      "title": "4/30(목) 테스트 서버 점검 안내(06:30~14:00)",
+      "date": "2026.04.28",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893497"
+    },
     {
       "id": "4893489",
       "title": "4/30(목) 정식 서버 패치 작업 변경점 안내",
@@ -45,12 +51,6 @@
       "title": "4/30(목) 엉뚱한/수줍은/도도한/차분한 모모 개선 안내",
       "date": "2026.04.23",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893480"
-    },
-    {
-      "id": "4893468",
-      "title": "4월 세인트 바드, 세이크리드 가드 개편 공개 테스트 서버 버그 리포트 이벤트 안내",
-      "date": "2026.04.16",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893468"
     }
   ]
 }
