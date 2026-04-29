@@ -1,15 +1,9 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-29T05:38:17.013644+00:00",
+  "updatedAt": "2026-04-29T08:02:45.050409+00:00",
   "status": "ok",
   "count": 8,
   "items": [
-    {
-      "id": "4893497",
-      "title": "4/30(목) 테스트 서버 점검 안내(06:30~14:00)",
-      "date": "2026.04.28",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893497"
-    },
     {
       "id": "4893489",
       "title": "4/30(목) 정식 서버 패치 작업 변경점 안내",
@@ -35,12 +29,6 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     },
     {
-      "id": "4893485",
-      "title": "(내용추가1) 4/23(목) 패치 후 확인된 현상 안내",
-      "date": "2026.04.23",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893485"
-    },
-    {
       "id": "4893480",
       "title": "4/30(목) 엉뚱한/수줍은/도도한/차분한 모모 개선 안내",
       "date": "2026.04.23",
@@ -51,6 +39,18 @@
       "title": "[연장] 4월 세인트 바드, 세이크리드 가드 개편 공개 테스트 서버 버그 리포트 이벤트...",
       "date": "2026.04.16",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893468"
+    },
+    {
+      "id": "4893460",
+      "title": "마비노기X바람의나라 콜라보 이벤트 안내",
+      "date": "2026.04.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893460"
+    },
+    {
+      "id": "4893459",
+      "title": "미드나잇 파빌리온 박스",
+      "date": "2026.04.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893459"
     }
   ]
 }
