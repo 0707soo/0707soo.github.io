@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-29T13:51:19.323077+00:00",
+  "updatedAt": "2026-04-29T15:52:23.126960+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -47,10 +47,10 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893460"
     },
     {
-      "id": "4893459",
-      "title": "미드나잇 파빌리온 박스",
-      "date": "2026.04.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893459"
+      "id": "4893442",
+      "title": "‘바람의나라 30주년 어셈블 스페셜 쿠폰’ 이벤트 안내",
+      "date": "2026.04.02",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893442"
     }
   ]
 }
