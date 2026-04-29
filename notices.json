@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-29T02:07:25.582369+00:00",
+  "updatedAt": "2026-04-29T05:38:17.013644+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -48,7 +48,7 @@
     },
     {
       "id": "4893468",
-      "title": "4월 세인트 바드, 세이크리드 가드 개편 공개 테스트 서버 버그 리포트 이벤트 안내",
+      "title": "[연장] 4월 세인트 바드, 세이크리드 가드 개편 공개 테스트 서버 버그 리포트 이벤트...",
       "date": "2026.04.16",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893468"
     }
