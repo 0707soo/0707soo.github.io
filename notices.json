@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-04-30T05:42:47.105129+00:00",
+  "updatedAt": "2026-04-30T08:07:02.647863+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893502",
+      "title": "신비한 고양이 마을 이벤트 안내",
+      "date": "2026.04.30",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893502"
+    },
     {
       "id": "4893499",
       "title": "4/30(목) 테스트 서버 패치 작업 변경점 안내",
@@ -45,12 +51,6 @@
       "title": "밀레시안 여러분의 말씀을 마음 깊이 새기며",
       "date": "2026.04.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893495"
-    },
-    {
-      "id": "4893487",
-      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
-      "date": "2026.04.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     }
   ]
 }
