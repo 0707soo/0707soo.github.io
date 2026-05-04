@@ -1,9 +1,21 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-05-04T08:19:33.625142+00:00",
+  "updatedAt": "2026-05-04T10:29:43.716094+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893500",
+      "title": "5/7(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.05.04",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893500"
+    },
+    {
+      "id": "4893503",
+      "title": "(내용추가2) 4/30(목) 패치 후 확인된 현상 안내",
+      "date": "2026.04.30",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893503"
+    },
     {
       "id": "4893502",
       "title": "신비한 고양이 마을 이벤트 안내",
@@ -39,18 +51,6 @@
       "title": "4/30(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.04.28",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893489"
-    },
-    {
-      "id": "4893488",
-      "title": "[완료/점검보상] 4/30(목) 정식 서버 점검 안내(06:30~13:30)",
-      "date": "2026.04.28",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893488"
-    },
-    {
-      "id": "4893495",
-      "title": "밀레시안 여러분의 말씀을 마음 깊이 새기며",
-      "date": "2026.04.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893495"
     }
   ]
 }
