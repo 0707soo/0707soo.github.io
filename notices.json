@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-05-05T22:48:37.275894+00:00",
+  "updatedAt": "2026-05-05T23:40:56.347128+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -23,12 +23,6 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893502"
     },
     {
-      "id": "4893499",
-      "title": "4/30(목) 테스트 서버 패치 작업 변경점 안내",
-      "date": "2026.04.30",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893499"
-    },
-    {
       "id": "4893496",
       "title": "봄의 제전 상자",
       "date": "2026.04.30",
@@ -47,10 +41,16 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893481"
     },
     {
-      "id": "4893489",
-      "title": "4/30(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.04.28",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893489"
+      "id": "4893495",
+      "title": "밀레시안 여러분의 말씀을 마음 깊이 새기며",
+      "date": "2026.04.27",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893495"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     }
   ]
 }
