@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-05-06T22:40:59.222864+00:00",
+  "updatedAt": "2026-05-06T23:41:43.849893+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -35,12 +35,6 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893496"
     },
     {
-      "id": "4893493",
-      "title": "가정의 달 골든 위크 온타임 이벤트",
-      "date": "2026.04.30",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893493"
-    },
-    {
       "id": "4893481",
       "title": "4/30(목) 엉뚱한/수줍은/도도한/차분한 모모 개선 보상 안내",
       "date": "2026.04.30",
@@ -51,6 +45,12 @@
       "title": "밀레시안 여러분의 말씀을 마음 깊이 새기며",
       "date": "2026.04.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893495"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     }
   ]
 }
