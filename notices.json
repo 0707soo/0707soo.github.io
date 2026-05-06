@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-05-06T08:09:53.315314+00:00",
+  "updatedAt": "2026-05-06T10:31:03.563341+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893501",
+      "title": "5/7(목) 정식 서버 점검 안내(07:00~11:30)",
+      "date": "2026.05.04",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893501"
+    },
     {
       "id": "4893500",
       "title": "5/7(목) 정식 서버 패치 작업 변경점 안내",
@@ -45,12 +51,6 @@
       "title": "밀레시안 여러분의 말씀을 마음 깊이 새기며",
       "date": "2026.04.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893495"
-    },
-    {
-      "id": "4893487",
-      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
-      "date": "2026.04.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     }
   ]
 }
