@@ -1,26 +1,20 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-05-07T02:05:01.085026+00:00",
+  "updatedAt": "2026-05-07T05:44:16.352340+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
-      "id": "4893501",
-      "title": "5/7(목) 정식 서버 점검 안내(07:00~11:30)",
-      "date": "2026.05.04",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893501"
+      "id": "4893507",
+      "title": "(내용추가1) 5/7(목) 패치 후 확인된 현상 안내",
+      "date": "2026.05.07",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893507"
     },
     {
       "id": "4893500",
       "title": "5/7(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.05.04",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893500"
-    },
-    {
-      "id": "4893503",
-      "title": "(내용추가3) 4/30(목) 패치 후 확인된 현상 안내",
-      "date": "2026.04.30",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893503"
     },
     {
       "id": "4893502",
@@ -51,6 +45,12 @@
       "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
       "date": "2026.04.26",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
+    },
+    {
+      "id": "4893468",
+      "title": "[연장] 4월 세인트 바드, 세이크리드 가드 개편 공개 테스트 서버 버그 리포트 이벤트...",
+      "date": "2026.04.16",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893468"
     }
   ]
 }
