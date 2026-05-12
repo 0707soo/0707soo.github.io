@@ -1,9 +1,27 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-05-12T08:28:15.752680+00:00",
+  "updatedAt": "2026-05-12T10:58:24.600040+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893515",
+      "title": "5/14(목) 정식 서버 점검 안내(5:30~12:30)",
+      "date": "2026.05.12",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893515"
+    },
+    {
+      "id": "4893513",
+      "title": "5/14(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.05.12",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893513"
+    },
+    {
+      "id": "4893510",
+      "title": "4월 마비노기 커넥트 약속 이행 페이지 안내",
+      "date": "2026.05.08",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893510"
+    },
     {
       "id": "4893502",
       "title": "신비한 고양이 마을 이벤트 안내",
@@ -33,24 +51,6 @@
       "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
       "date": "2026.04.26",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
-    },
-    {
-      "id": "4893468",
-      "title": "[연장] 4월 세인트 바드, 세이크리드 가드 개편 공개 테스트 서버 버그 리포트 이벤트...",
-      "date": "2026.04.16",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893468"
-    },
-    {
-      "id": "4893442",
-      "title": "‘바람의나라 30주년 어셈블 스페셜 쿠폰’ 이벤트 안내",
-      "date": "2026.04.02",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893442"
-    },
-    {
-      "id": "4893415",
-      "title": "2026 마비노기 판타지 파티 사전 안내",
-      "date": "2026.04.02",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893415"
     }
   ]
 }
