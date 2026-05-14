@@ -1,56 +1,56 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-05-14T03:28:07.148614+00:00",
+  "updatedAt": "2026-05-14T06:36:28.230155+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
-      "id": "4893515",
-      "title": "5/14(목) 정식 서버 점검 안내(5:30~12:30)",
-      "date": "2026.05.12",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893515"
+      "id": "4893518",
+      "title": "테스트 서버 던전 매칭 이벤트",
+      "date": "2026.05.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893518"
+    },
+    {
+      "id": "4893516",
+      "title": "5월 크롬 바스 심연 난이도, 통합 서버 던전 매칭 시스템 공개 테스트 서버 버그 리포...",
+      "date": "2026.05.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893516"
+    },
+    {
+      "id": "4893528",
+      "title": "(내용추가3) 5/14(목) 패치 후 확인된 현상 안내",
+      "date": "2026.05.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893528"
+    },
+    {
+      "id": "4893522",
+      "title": "두근두근 아일랜드 이벤트 안내",
+      "date": "2026.05.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893522"
+    },
+    {
+      "id": "4893519",
+      "title": "8000일 온타임 이벤트",
+      "date": "2026.05.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893519"
+    },
+    {
+      "id": "4893511",
+      "title": "코스모 체이서 박스",
+      "date": "2026.05.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893511"
+    },
+    {
+      "id": "4893506",
+      "title": "22주년 판타지 파티 안내",
+      "date": "2026.05.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893506"
     },
     {
       "id": "4893513",
       "title": "5/14(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.05.12",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893513"
-    },
-    {
-      "id": "4893510",
-      "title": "4월 마비노기 커넥트 약속 이행 페이지 안내",
-      "date": "2026.05.08",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893510"
-    },
-    {
-      "id": "4893502",
-      "title": "신비한 고양이 마을 이벤트 안내",
-      "date": "2026.04.30",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893502"
-    },
-    {
-      "id": "4893481",
-      "title": "4/30(목) 엉뚱한/수줍은/도도한/차분한 모모 개선 보상 안내",
-      "date": "2026.04.30",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893481"
-    },
-    {
-      "id": "4893495",
-      "title": "밀레시안 여러분의 말씀을 마음 깊이 새기며",
-      "date": "2026.04.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893495"
-    },
-    {
-      "id": "4893487",
-      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
-      "date": "2026.04.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
-    },
-    {
-      "id": "4893416",
-      "title": "판의 출석체크판 안내",
-      "date": "2026.03.05",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893416"
     }
   ]
 }
