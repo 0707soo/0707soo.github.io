@@ -1,15 +1,9 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-05-17T23:26:42.970475+00:00",
+  "updatedAt": "2026-05-18T01:26:34.353924+00:00",
   "status": "ok",
   "count": 8,
   "items": [
-    {
-      "id": "4893527",
-      "title": "5/14(목) 테스트 서버 패치 작업 변경점 안내",
-      "date": "2026.05.14",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893527"
-    },
     {
       "id": "4893518",
       "title": "테스트 서버 던전 매칭 이벤트",
@@ -51,6 +45,12 @@
       "title": "22주년 판타지 파티 안내",
       "date": "2026.05.14",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893506"
+    },
+    {
+      "id": "4893513",
+      "title": "5/14(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.05.12",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893513"
     }
   ]
 }
