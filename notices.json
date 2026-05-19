@@ -1,9 +1,21 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-05-19T06:59:40.264908+00:00",
+  "updatedAt": "2026-05-19T10:38:41.796742+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893532",
+      "title": "5/21(목) 정식 서버 점검 안내(07:00~11:30)",
+      "date": "2026.05.19",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893532"
+    },
+    {
+      "id": "4893531",
+      "title": "5/21(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.05.19",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893531"
+    },
     {
       "id": "4893518",
       "title": "테스트 서버 던전 매칭 이벤트",
@@ -39,18 +51,6 @@
       "title": "코스모 체이서 박스",
       "date": "2026.05.14",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893511"
-    },
-    {
-      "id": "4893506",
-      "title": "22주년 판타지 파티 안내",
-      "date": "2026.05.14",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893506"
-    },
-    {
-      "id": "4893513",
-      "title": "5/14(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.05.12",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893513"
     }
   ]
 }
