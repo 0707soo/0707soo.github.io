@@ -1,26 +1,20 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-05-21T02:33:28.334320+00:00",
+  "updatedAt": "2026-05-21T06:44:29.002519+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893534",
+      "title": "22주년 판타지 파티 티켓 예매 및 입장 안내",
+      "date": "2026.05.21",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893534"
+    },
     {
       "id": "4893530",
       "title": "5/27(수) 마비노기 커넥트 라이브 방송 사전 안내",
       "date": "2026.05.21",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893530"
-    },
-    {
-      "id": "4893533",
-      "title": "5/21(목) 테스트 서버 점검 안내(07:00~12:30)",
-      "date": "2026.05.19",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893533"
-    },
-    {
-      "id": "4893532",
-      "title": "5/21(목) 정식 서버 점검 안내(07:00~11:30)",
-      "date": "2026.05.19",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893532"
     },
     {
       "id": "4893531",
@@ -30,7 +24,7 @@
     },
     {
       "id": "4893518",
-      "title": "테스트 서버 던전 매칭 이벤트",
+      "title": "[수정] 테스트 서버 던전 매칭 이벤트",
       "date": "2026.05.14",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893518"
     },
@@ -51,6 +45,12 @@
       "title": "8000일 온타임 이벤트",
       "date": "2026.05.14",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893519"
+    },
+    {
+      "id": "4893511",
+      "title": "코스모 체이서 박스",
+      "date": "2026.05.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893511"
     }
   ]
 }
