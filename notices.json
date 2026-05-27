@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-05-27T07:56:40.341369+00:00",
+  "updatedAt": "2026-05-27T11:34:01.242770+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -21,12 +21,6 @@
       "title": "(내용추가) 22주년 판타지 파티 티켓 예매 및 입장 안내",
       "date": "2026.05.21",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893534"
-    },
-    {
-      "id": "4893530",
-      "title": "5/27(수) 마비노기 커넥트 라이브 방송 사전 안내",
-      "date": "2026.05.21",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893530"
     },
     {
       "id": "4893518",
@@ -51,6 +45,12 @@
       "title": "8000일 온타임 이벤트",
       "date": "2026.05.14",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893519"
+    },
+    {
+      "id": "4893511",
+      "title": "코스모 체이서 박스",
+      "date": "2026.05.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893511"
     }
   ]
 }
