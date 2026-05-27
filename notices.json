@@ -1,7 +1,56 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-05-27T22:14:51.356711+00:00",
-  "status": "maintenance",
-  "count": 0,
-  "items": []
+  "updatedAt": "2026-05-27T23:41:38.750142+00:00",
+  "status": "ok",
+  "count": 8,
+  "items": [
+    {
+      "id": "4893543",
+      "title": "5/28(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.05.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893543"
+    },
+    {
+      "id": "4893542",
+      "title": "5/28(목) 테스트 서버 점검 안내(05:30~13:30)",
+      "date": "2026.05.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893542"
+    },
+    {
+      "id": "4893541",
+      "title": "5/28(목) 정식 서버 점검 안내(05:30~12:30)",
+      "date": "2026.05.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893541"
+    },
+    {
+      "id": "4893534",
+      "title": "(내용추가) 22주년 판타지 파티 티켓 예매 및 입장 안내",
+      "date": "2026.05.21",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893534"
+    },
+    {
+      "id": "4893518",
+      "title": "[수정] 테스트 서버 던전 매칭 이벤트",
+      "date": "2026.05.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893518"
+    },
+    {
+      "id": "4893522",
+      "title": "두근두근 아일랜드 이벤트 안내",
+      "date": "2026.05.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893522"
+    },
+    {
+      "id": "4893506",
+      "title": "22주년 판타지 파티 안내",
+      "date": "2026.05.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893506"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
+    }
+  ]
 }
