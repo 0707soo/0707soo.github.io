@@ -1,26 +1,44 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-05-28T02:14:44.417193+00:00",
+  "updatedAt": "2026-05-28T06:34:58.532284+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
+      "id": "4893546",
+      "title": "(수정) 5/28(목) 테스트 서버 패치 작업 변경점 안내",
+      "date": "2026.05.28",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893546"
+    },
+    {
+      "id": "4893547",
+      "title": "(내용추가3) 5/28(목) 패치 후 확인된 현상 안내",
+      "date": "2026.05.28",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893547"
+    },
+    {
+      "id": "4893545",
+      "title": "2026년 6월 캐릭터 서버 이전, 낭만 농장/달빛 섬 이름 변경 서비스 진행일 안내",
+      "date": "2026.05.28",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893545"
+    },
+    {
+      "id": "4893540",
+      "title": "프론티어 뱅가드 박스",
+      "date": "2026.05.28",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893540"
+    },
+    {
+      "id": "4893544",
+      "title": "5월 마비노기 커넥트를 마치며",
+      "date": "2026.05.28",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893544"
+    },
+    {
       "id": "4893543",
-      "title": "5/28(목) 정식 서버 패치 작업 변경점 안내",
+      "title": "(내용추가) 5/28(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.05.26",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893543"
-    },
-    {
-      "id": "4893542",
-      "title": "5/28(목) 테스트 서버 점검 안내(05:30~13:30)",
-      "date": "2026.05.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893542"
-    },
-    {
-      "id": "4893541",
-      "title": "5/28(목) 정식 서버 점검 안내(05:30~12:30)",
-      "date": "2026.05.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893541"
     },
     {
       "id": "4893534",
@@ -33,24 +51,6 @@
       "title": "[수정] 테스트 서버 던전 매칭 이벤트",
       "date": "2026.05.14",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893518"
-    },
-    {
-      "id": "4893522",
-      "title": "두근두근 아일랜드 이벤트 안내",
-      "date": "2026.05.14",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893522"
-    },
-    {
-      "id": "4893506",
-      "title": "22주년 판타지 파티 안내",
-      "date": "2026.05.14",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893506"
-    },
-    {
-      "id": "4893487",
-      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
-      "date": "2026.04.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     }
   ]
 }
