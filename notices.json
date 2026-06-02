@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-02T20:55:26.256154+00:00",
+  "updatedAt": "2026-06-02T22:55:58.258113+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893556",
+      "title": "6/4(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.06.02",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893556"
+    },
     {
       "id": "4893555",
       "title": "6/4(목) 테스트 서버 점검 안내(7:00~13:00)",
@@ -45,12 +51,6 @@
       "title": "5월 마비노기 커넥트를 마치며",
       "date": "2026.05.28",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893544"
-    },
-    {
-      "id": "4893534",
-      "title": "(내용추가) 22주년 판타지 파티 티켓 예매 및 입장 안내",
-      "date": "2026.05.21",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893534"
     }
   ]
 }
