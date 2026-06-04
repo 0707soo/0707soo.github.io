@@ -1,26 +1,38 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-04T00:11:35.893668+00:00",
+  "updatedAt": "2026-06-04T05:18:27.848564+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893559",
+      "title": "6/4(목) 패치 후 확인된 현상 안내",
+      "date": "2026.06.04",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893559"
+    },
+    {
+      "id": "4893553",
+      "title": "마일리지 서비스 시즌 10 초기화 사전 안내 (2026/6/11(목) 점검 시 초기화)",
+      "date": "2026.06.04",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893553"
+    },
+    {
+      "id": "4893407",
+      "title": "6/11(목) 카라젝의 모험 상자 판매 종료 안내",
+      "date": "2026.06.04",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893407"
+    },
+    {
+      "id": "4893539",
+      "title": "기억해야 할 이름들을 새기며, 2026 현충일 온타임 이벤트",
+      "date": "2026.06.03",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893539"
+    },
     {
       "id": "4893556",
       "title": "6/4(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.06.02",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893556"
-    },
-    {
-      "id": "4893555",
-      "title": "6/4(목) 테스트 서버 점검 안내(7:00~13:00)",
-      "date": "2026.06.02",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893555"
-    },
-    {
-      "id": "4893554",
-      "title": "6/4(목) 정식 서버 점검 안내(7:00~12:00)",
-      "date": "2026.06.02",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893554"
     },
     {
       "id": "4893549",
@@ -39,18 +51,6 @@
       "title": "2026년 6월 캐릭터 서버 이전, 낭만 농장/달빛 섬 이름 변경 서비스 진행일 안내",
       "date": "2026.05.28",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893545"
-    },
-    {
-      "id": "4893540",
-      "title": "프론티어 뱅가드 박스",
-      "date": "2026.05.28",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893540"
-    },
-    {
-      "id": "4893544",
-      "title": "5월 마비노기 커넥트를 마치며",
-      "date": "2026.05.28",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893544"
     }
   ]
 }
