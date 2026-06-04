@@ -1,20 +1,20 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-04T22:05:17.662402+00:00",
+  "updatedAt": "2026-06-04T23:43:24.716267+00:00",
   "status": "ok",
   "count": 8,
   "items": [
-    {
-      "id": "4893557",
-      "title": "6/4(목) 테스트 서버 패치 작업 변경점 안내",
-      "date": "2026.06.04",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893557"
-    },
     {
       "id": "4893559",
       "title": "6/4(목) 패치 후 확인된 현상 안내",
       "date": "2026.06.04",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893559"
+    },
+    {
+      "id": "4893553",
+      "title": "마일리지 서비스 시즌 10 초기화 사전 안내 (2026/6/11(목) 점검 시 초기화)",
+      "date": "2026.06.04",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893553"
     },
     {
       "id": "4893407",
