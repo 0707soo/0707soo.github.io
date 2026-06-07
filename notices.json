@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-07T21:42:27.253726+00:00",
+  "updatedAt": "2026-06-07T22:55:33.242117+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -29,12 +29,6 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893407"
     },
     {
-      "id": "4893539",
-      "title": "기억해야 할 이름들을 새기며, 2026 현충일 온타임 이벤트",
-      "date": "2026.06.03",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893539"
-    },
-    {
       "id": "4893556",
       "title": "6/4(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.06.02",
@@ -51,6 +45,12 @@
       "title": "(수정) 5월 아르카나 밸런싱 공개 테스트 서버 버그 리포트 이벤트 안내",
       "date": "2026.05.28",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893548"
+    },
+    {
+      "id": "4893540",
+      "title": "프론티어 뱅가드 박스",
+      "date": "2026.05.28",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893540"
     }
   ]
 }
