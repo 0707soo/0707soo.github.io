@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-08T23:42:42.115169+00:00",
+  "updatedAt": "2026-06-09T02:13:37.691805+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -12,7 +12,7 @@
     },
     {
       "id": "4893559",
-      "title": "(내용추가) 6/4(목) 패치 후 확인된 현상 안내",
+      "title": "(내용추가2) 6/4(목) 패치 후 확인된 현상 안내",
       "date": "2026.06.04",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893559"
     },
