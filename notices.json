@@ -1,9 +1,27 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-09T06:30:28.012544+00:00",
+  "updatedAt": "2026-06-09T10:29:11.556831+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893567",
+      "title": "6/11(목) 정식 서버 점검 안내(3:00~12:30)",
+      "date": "2026.06.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893567"
+    },
+    {
+      "id": "4893566",
+      "title": "6/11(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.06.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893566"
+    },
+    {
+      "id": "4893561",
+      "title": "6/5(금) 운영정책 위반 단속 결과 안내",
+      "date": "2026.06.05",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893561"
+    },
     {
       "id": "4893557",
       "title": "6/4(목) 테스트 서버 패치 작업 변경점 안내",
@@ -33,24 +51,6 @@
       "title": "6/4(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.06.02",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893556"
-    },
-    {
-      "id": "4893549",
-      "title": "5월 마비노기 커넥트 약속 이행 현황 페이지 안내",
-      "date": "2026.05.29",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893549"
-    },
-    {
-      "id": "4893548",
-      "title": "(수정) 5월 아르카나 밸런싱 공개 테스트 서버 버그 리포트 이벤트 안내",
-      "date": "2026.05.28",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893548"
-    },
-    {
-      "id": "4893540",
-      "title": "프론티어 뱅가드 박스",
-      "date": "2026.05.28",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893540"
     }
   ]
 }
