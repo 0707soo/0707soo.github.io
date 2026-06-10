@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-10T22:24:04.525511+00:00",
+  "updatedAt": "2026-06-10T23:53:41.720811+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -17,28 +17,10 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893566"
     },
     {
-      "id": "4893559",
-      "title": "(내용추가2) 6/4(목) 패치 후 확인된 현상 안내",
-      "date": "2026.06.04",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893559"
-    },
-    {
-      "id": "4893553",
-      "title": "마일리지 서비스 시즌 10 초기화 사전 안내 (2026/6/11(목) 점검 시 초기화)",
-      "date": "2026.06.04",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893553"
-    },
-    {
       "id": "4893407",
       "title": "6/11(목) 카라젝의 모험 상자 판매 종료 안내",
       "date": "2026.06.04",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893407"
-    },
-    {
-      "id": "4893549",
-      "title": "5월 마비노기 커넥트 약속 이행 현황 페이지 안내",
-      "date": "2026.05.29",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893549"
     },
     {
       "id": "4893548",
@@ -47,10 +29,28 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893548"
     },
     {
-      "id": "4893544",
-      "title": "5월 마비노기 커넥트를 마치며",
-      "date": "2026.05.28",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893544"
+      "id": "4893534",
+      "title": "(내용추가) 22주년 판타지 파티 티켓 예매 및 입장 안내",
+      "date": "2026.05.21",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893534"
+    },
+    {
+      "id": "4893506",
+      "title": "22주년 판타지 파티 안내",
+      "date": "2026.05.14",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893506"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
+    },
+    {
+      "id": "4893280",
+      "title": "미스틱 아틀리에 S2",
+      "date": "2026.01.15",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893280"
     }
   ]
 }
