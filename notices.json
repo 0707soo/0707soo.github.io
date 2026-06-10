@@ -1,7 +1,56 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-10T20:13:57.941833+00:00",
-  "status": "maintenance",
-  "count": 0,
-  "items": []
+  "updatedAt": "2026-06-10T22:24:04.525511+00:00",
+  "status": "ok",
+  "count": 8,
+  "items": [
+    {
+      "id": "4893567",
+      "title": "6/11(목) 정식 서버 점검 안내(3:00~12:30)",
+      "date": "2026.06.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893567"
+    },
+    {
+      "id": "4893566",
+      "title": "6/11(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.06.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893566"
+    },
+    {
+      "id": "4893559",
+      "title": "(내용추가2) 6/4(목) 패치 후 확인된 현상 안내",
+      "date": "2026.06.04",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893559"
+    },
+    {
+      "id": "4893553",
+      "title": "마일리지 서비스 시즌 10 초기화 사전 안내 (2026/6/11(목) 점검 시 초기화)",
+      "date": "2026.06.04",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893553"
+    },
+    {
+      "id": "4893407",
+      "title": "6/11(목) 카라젝의 모험 상자 판매 종료 안내",
+      "date": "2026.06.04",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893407"
+    },
+    {
+      "id": "4893549",
+      "title": "5월 마비노기 커넥트 약속 이행 현황 페이지 안내",
+      "date": "2026.05.29",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893549"
+    },
+    {
+      "id": "4893548",
+      "title": "(수정) 5월 아르카나 밸런싱 공개 테스트 서버 버그 리포트 이벤트 안내",
+      "date": "2026.05.28",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893548"
+    },
+    {
+      "id": "4893544",
+      "title": "5월 마비노기 커넥트를 마치며",
+      "date": "2026.05.28",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893544"
+    }
+  ]
 }
