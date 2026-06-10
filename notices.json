@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-10T14:32:24.970663+00:00",
+  "updatedAt": "2026-06-10T17:52:38.588778+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -47,10 +47,10 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893548"
     },
     {
-      "id": "4893540",
-      "title": "프론티어 뱅가드 박스",
+      "id": "4893544",
+      "title": "5월 마비노기 커넥트를 마치며",
       "date": "2026.05.28",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893540"
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893544"
     }
   ]
 }
