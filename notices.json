@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-11T23:02:39.583024+00:00",
+  "updatedAt": "2026-06-12T01:42:21.081562+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893572",
+      "title": "[완료/점검보상] 6/11(목) 정식 서버 임시 점검 안내 (15:20~15:52)",
+      "date": "2026.06.11",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893572"
+    },
     {
       "id": "4893570",
       "title": "(수정) 6/11(목) 테스트 서버 패치 작업 변경점 안내",
@@ -45,12 +51,6 @@
       "title": "(수정) 5월 아르카나 밸런싱 공개 테스트 서버 버그 리포트 이벤트 안내",
       "date": "2026.05.28",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893548"
-    },
-    {
-      "id": "4893534",
-      "title": "(내용추가2) 22주년 판타지 파티 티켓 예매 및 입장 안내",
-      "date": "2026.05.21",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893534"
     }
   ]
 }
