@@ -1,15 +1,9 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-12T06:26:15.345844+00:00",
+  "updatedAt": "2026-06-12T10:46:54.237129+00:00",
   "status": "ok",
   "count": 8,
   "items": [
-    {
-      "id": "4893570",
-      "title": "(수정) 6/11(목) 테스트 서버 패치 작업 변경점 안내",
-      "date": "2026.06.11",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893570"
-    },
     {
       "id": "4893571",
       "title": "(내용추가8) 6/11(목) 패치 후 확인된 현상 안내",
@@ -51,6 +45,12 @@
       "title": "(내용추가2) 22주년 판타지 파티 티켓 예매 및 입장 안내",
       "date": "2026.05.21",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893534"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     }
   ]
 }
