@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-16T08:40:01.806246+00:00",
+  "updatedAt": "2026-06-16T13:23:03.193155+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893576",
+      "title": "6/18(목) 정식 서버 점검 안내(03:00~12:30)",
+      "date": "2026.06.16",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893576"
+    },
     {
       "id": "4893571",
       "title": "(내용추가8) 6/11(목) 패치 후 확인된 현상 안내",
@@ -27,12 +33,6 @@
       "title": "마일리지 서비스 시즌11",
       "date": "2026.06.11",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
-    },
-    {
-      "id": "4893566",
-      "title": "6/11(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.06.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893566"
     },
     {
       "id": "4893548",
