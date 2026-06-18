@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-18T06:56:21.078405+00:00",
+  "updatedAt": "2026-06-18T11:06:06.034035+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893583",
+      "title": "(내용추가3) 6/18(목) 패치 후 확인된 현상 안내",
+      "date": "2026.06.18",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893583"
+    },
     {
       "id": "4893582",
       "title": "6/25(목) 테스트 서버 초기화 & 정식 서버 캐릭터 복사 일정 안내",
@@ -45,12 +51,6 @@
       "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
       "date": "2026.04.26",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
-    },
-    {
-      "id": "4893280",
-      "title": "미스틱 아틀리에 S2",
-      "date": "2026.01.15",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893280"
     }
   ]
 }
