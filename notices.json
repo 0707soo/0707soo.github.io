@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-24T14:09:18.901090+00:00",
+  "updatedAt": "2026-06-24T16:36:54.197774+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -35,12 +35,6 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893569"
     },
     {
-      "id": "4893565",
-      "title": "오셔닉 아쿠아리네 박스",
-      "date": "2026.06.11",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893565"
-    },
-    {
       "id": "4893564",
       "title": "마일리지 서비스 시즌11",
       "date": "2026.06.11",
@@ -51,6 +45,12 @@
       "title": "(내용추가3) 22주년 판타지 파티 티켓 예매 및 입장 안내",
       "date": "2026.05.21",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893534"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     }
   ]
 }
