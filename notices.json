@@ -1,56 +1,7 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-24T20:17:07.472698+00:00",
-  "status": "ok",
-  "count": 8,
-  "items": [
-    {
-      "id": "4893591",
-      "title": "6/25(목) 정식 서버 점검 안내(05:30~12:00)",
-      "date": "2026.06.23",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893591"
-    },
-    {
-      "id": "4893590",
-      "title": "6/25(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.06.23",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893590"
-    },
-    {
-      "id": "4893583",
-      "title": "(내용추가6) 6/18(목) 패치 후 확인된 현상 안내",
-      "date": "2026.06.18",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893583"
-    },
-    {
-      "id": "4893582",
-      "title": "6/25(목) 테스트 서버 초기화 & 정식 서버 캐릭터 복사 일정 안내",
-      "date": "2026.06.18",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893582"
-    },
-    {
-      "id": "4893569",
-      "title": "마비노기 22주년 이벤트 안내",
-      "date": "2026.06.11",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893569"
-    },
-    {
-      "id": "4893564",
-      "title": "마일리지 서비스 시즌11",
-      "date": "2026.06.11",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
-    },
-    {
-      "id": "4893534",
-      "title": "(내용추가3) 22주년 판타지 파티 티켓 예매 및 입장 안내",
-      "date": "2026.05.21",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893534"
-    },
-    {
-      "id": "4893487",
-      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
-      "date": "2026.04.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
-    }
-  ]
+  "updatedAt": "2026-06-24T21:52:14.770319+00:00",
+  "status": "maintenance",
+  "count": 0,
+  "items": []
 }
