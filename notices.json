@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-25T04:40:16.720722+00:00",
+  "updatedAt": "2026-06-25T08:17:39.388172+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -9,12 +9,6 @@
       "title": "[수정] 6/25(목) 테스트 서버 점검 안내(05:30~6/29(월)14:00)",
       "date": "2026.06.23",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893592"
-    },
-    {
-      "id": "4893591",
-      "title": "6/25(목) 정식 서버 점검 안내(05:30~12:00)",
-      "date": "2026.06.23",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893591"
     },
     {
       "id": "4893590",
@@ -51,6 +45,12 @@
       "title": "미스틱 아틀리에 S2",
       "date": "2026.01.15",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893280"
+    },
+    {
+      "id": "4893601",
+      "title": "2026년 7월 캐릭터 서버 이전, 낭만 농장/달빛 섬 이름 변경 서비스 진행일 안내",
+      "date": "2026.06.25",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893601"
     }
   ]
 }
