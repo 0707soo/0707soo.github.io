@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-25T00:15:20.216535+00:00",
+  "updatedAt": "2026-06-25T04:40:16.720722+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893592",
+      "title": "[수정] 6/25(목) 테스트 서버 점검 안내(05:30~6/29(월)14:00)",
+      "date": "2026.06.23",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893592"
+    },
     {
       "id": "4893591",
       "title": "6/25(목) 정식 서버 점검 안내(05:30~12:00)",
@@ -12,15 +18,9 @@
     },
     {
       "id": "4893590",
-      "title": "6/25(목) 정식 서버 패치 작업 변경점 안내",
+      "title": "[수정] 6/25(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.06.23",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893590"
-    },
-    {
-      "id": "4893582",
-      "title": "6/25(목) 테스트 서버 초기화 & 정식 서버 캐릭터 복사 일정 안내",
-      "date": "2026.06.18",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893582"
     },
     {
       "id": "4893569",
