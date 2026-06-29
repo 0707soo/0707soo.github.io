@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-29T00:02:10.128451+00:00",
+  "updatedAt": "2026-06-29T05:08:23.551515+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -24,7 +24,7 @@
     },
     {
       "id": "4893592",
-      "title": "[수정] 6/25(목) 테스트 서버 점검 안내(05:30~6/29(월)14:00)",
+      "title": "[수정2] 6/25(목) 테스트 서버 점검 안내(05:30~6/29(월)15:00)",
       "date": "2026.06.23",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893592"
     },
