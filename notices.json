@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-06-28T22:55:30.199554+00:00",
+  "updatedAt": "2026-06-29T00:02:10.128451+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -15,12 +15,6 @@
       "title": "생활 및 교역 시즌 교체일 변경 안내(7/2(목) -> 9/3(목))",
       "date": "2026.06.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893598"
-    },
-    {
-      "id": "4893610",
-      "title": "6/26(금) 운영정책 위반 단속 결과 안내",
-      "date": "2026.06.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893610"
     },
     {
       "id": "4893596",
@@ -51,6 +45,12 @@
       "title": "마일리지 서비스 시즌11",
       "date": "2026.06.11",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     }
   ]
 }
