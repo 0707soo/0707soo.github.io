@@ -1,20 +1,38 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-07-02T02:29:56.205000+00:00",
+  "updatedAt": "2026-07-02T06:22:58.722496+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893618",
+      "title": "운명의 바람 인형 가방의 선물 상자",
+      "date": "2026.07.02",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893618"
+    },
+    {
+      "id": "4893613",
+      "title": "7/2(목) 마비노기 이터니티 새로운 소식 업데이트 안내",
+      "date": "2026.07.02",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893613"
+    },
+    {
+      "id": "4893600",
+      "title": "밀레시안 웰컴 패키지 3종 구매 이력 초기화&판매 종료 예정 안내",
+      "date": "2026.07.02",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893600"
+    },
+    {
+      "id": "4893622",
+      "title": "7/3(금) 테스트 서버 점검 안내(09:00~14:00)",
+      "date": "2026.07.01",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893622"
+    },
     {
       "id": "4893617",
       "title": "7/2(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.06.30",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893617"
-    },
-    {
-      "id": "4893616",
-      "title": "7/2(목) 정식 서버 점검 안내(06:30~12:00)",
-      "date": "2026.06.30",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893616"
     },
     {
       "id": "4893611",
@@ -33,24 +51,6 @@
       "title": "RE:ACTION 업데이트 사전 등록 이벤트 안내",
       "date": "2026.06.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893580"
-    },
-    {
-      "id": "4893578",
-      "title": "2026년 여름 'RE:ACTION' 쇼케이스 쿠폰 지급 안내",
-      "date": "2026.06.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893578"
-    },
-    {
-      "id": "4893598",
-      "title": "생활 및 교역 시즌 교체일 변경 안내(7/2(목) -> 9/3(목))",
-      "date": "2026.06.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893598"
-    },
-    {
-      "id": "4893596",
-      "title": "프라이빗 아이 박스",
-      "date": "2026.06.25",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893596"
     }
   ]
 }
