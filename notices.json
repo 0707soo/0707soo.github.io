@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-07-03T02:29:35.908743+00:00",
+  "updatedAt": "2026-07-03T06:08:34.224413+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893623",
+      "title": "(내용추가2) 7/2(목) 패치 후 확인된 현상 안내",
+      "date": "2026.07.02",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893623"
+    },
     {
       "id": "4893618",
       "title": "운명의 바람 인형 가방의 선물 상자",
@@ -21,12 +27,6 @@
       "title": "밀레시안 웰컴 패키지 3종 구매 이력 초기화&판매 종료 예정 안내",
       "date": "2026.07.02",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893600"
-    },
-    {
-      "id": "4893622",
-      "title": "7/3(금) 테스트 서버 점검 안내(09:00~14:00)",
-      "date": "2026.07.01",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893622"
     },
     {
       "id": "4893617",
