@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-07-03T06:08:34.224413+00:00",
+  "updatedAt": "2026-07-03T09:39:40.488233+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893625",
+      "title": "(수정) 7/3(금) 테스트 서버 패치 작업 변경점 안내",
+      "date": "2026.07.03",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893625"
+    },
     {
       "id": "4893623",
       "title": "(내용추가2) 7/2(목) 패치 후 확인된 현상 안내",
@@ -45,12 +51,6 @@
       "title": "RE:ACTION 업데이트 사전 등록 이벤트 안내",
       "date": "2026.06.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893580"
-    },
-    {
-      "id": "4893578",
-      "title": "2026년 여름 'RE:ACTION' 쇼케이스 쿠폰 지급 안내",
-      "date": "2026.06.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893578"
     }
   ]
 }
