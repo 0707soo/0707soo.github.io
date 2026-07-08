@@ -1,12 +1,12 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-07-08T07:43:59.409290+00:00",
+  "updatedAt": "2026-07-08T10:08:20.794895+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
       "id": "4893633",
-      "title": "7/9(목) 정식 서버 패치 작업 변경점 안내",
+      "title": "(수정) 7/9(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.07.07",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893633"
     },
