@@ -1,56 +1,56 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-07-09T01:07:32.086064+00:00",
+  "updatedAt": "2026-07-09T05:29:35.145645+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893638",
+      "title": "겟잇 뷰티 박스 2026",
+      "date": "2026.07.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893638"
+    },
+    {
+      "id": "4893637",
+      "title": "마비노기 피버 시즌 이벤트 안내",
+      "date": "2026.07.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893637"
+    },
+    {
+      "id": "4893636",
+      "title": "PC방 Special Support 시즌",
+      "date": "2026.07.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893636"
+    },
+    {
+      "id": "4893632",
+      "title": "RE:ACTION 1차 업데이트 안내",
+      "date": "2026.07.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893632"
+    },
+    {
+      "id": "4893631",
+      "title": "7/6(월) 마비노기 커넥트 이벤트 보상 및 온타임 이벤트",
+      "date": "2026.07.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893631"
+    },
+    {
+      "id": "4893608",
+      "title": "7/30(목) 미스틱 아틀리에 S2 종료 & 파에아의 황금빛 재봉 키트 일시 판매 종료 안내",
+      "date": "2026.07.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893608"
+    },
+    {
+      "id": "4893602",
+      "title": "밀레시안 웰컴 패키지 3종 리뉴얼 및 판매 안내",
+      "date": "2026.07.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893602"
+    },
     {
       "id": "4893633",
       "title": "(수정) 7/9(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.07.07",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893633"
-    },
-    {
-      "id": "4893618",
-      "title": "운명의 바람 인형 가방의 선물 상자",
-      "date": "2026.07.02",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893618"
-    },
-    {
-      "id": "4893578",
-      "title": "2026년 여름 'RE:ACTION' 쇼케이스 쿠폰 지급 안내",
-      "date": "2026.06.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893578"
-    },
-    {
-      "id": "4893598",
-      "title": "생활 및 교역 시즌 교체일 변경 안내(7/2(목) -> 9/3(목))",
-      "date": "2026.06.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893598"
-    },
-    {
-      "id": "4893564",
-      "title": "마일리지 서비스 시즌11",
-      "date": "2026.06.11",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
-    },
-    {
-      "id": "4893487",
-      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
-      "date": "2026.04.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
-    },
-    {
-      "id": "4893280",
-      "title": "미스틱 아틀리에 S2",
-      "date": "2026.01.15",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893280"
-    },
-    {
-      "id": "4893634",
-      "title": "7/9(목) 정식 서버 점검 안내(06:00~13:30)",
-      "date": "2026.07.07",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893634"
     }
   ]
 }
