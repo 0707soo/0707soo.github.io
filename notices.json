@@ -1,56 +1,8 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-07-15T12:48:13.997638+00:00",
-  "status": "ok",
-  "count": 8,
-  "items": [
-    {
-      "id": "4893660",
-      "title": "7/16(목) 테스트 서버 점검 안내(06:30~14:00)",
-      "date": "2026.07.14",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893660"
-    },
-    {
-      "id": "4893659",
-      "title": "7/16(목) 정식 서버 점검 안내(06:30~13:00)",
-      "date": "2026.07.14",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893659"
-    },
-    {
-      "id": "4893640",
-      "title": "(내용추가9) 7/9(목) 패치 후 확인된 현상 안내",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893640"
-    },
-    {
-      "id": "4893638",
-      "title": "겟잇 뷰티 박스 2026",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893638"
-    },
-    {
-      "id": "4893637",
-      "title": "마비노기 피버 시즌 이벤트 안내",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893637"
-    },
-    {
-      "id": "4893636",
-      "title": "PC방 Special Support 시즌",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893636"
-    },
-    {
-      "id": "4893632",
-      "title": "RE:ACTION 1차 업데이트 안내",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893632"
-    },
-    {
-      "id": "4893631",
-      "title": "7/6(월) 마비노기 커넥트 이벤트 보상 및 온타임 이벤트",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893631"
-    }
-  ]
+  "updatedAt": "2026-07-15T14:42:18.177132+00:00",
+  "status": "unavailable",
+  "count": 0,
+  "items": [],
+  "error": "HTTPSConnectionPool(host='mabinogi.nexon.com', port=443): Read timed out. (read timeout=20)"
 }
