@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-07-16T06:12:19.760801+00:00",
+  "updatedAt": "2026-07-16T08:38:30.342886+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893662",
+      "title": "7/16(목) 테스트 서버 패치 작업 변경점 안내",
+      "date": "2026.07.16",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893662"
+    },
     {
       "id": "4893663",
       "title": "7/16(목) 운영정책 위반 단속 결과 안내",
@@ -45,12 +51,6 @@
       "title": "RE:ACTION 1차 업데이트 안내",
       "date": "2026.07.09",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893632"
-    },
-    {
-      "id": "4893631",
-      "title": "7/6(월) 마비노기 커넥트 이벤트 보상 및 온타임 이벤트",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893631"
     }
   ]
 }
