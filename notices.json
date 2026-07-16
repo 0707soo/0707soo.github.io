@@ -1,20 +1,26 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-07-16T03:56:21.823973+00:00",
+  "updatedAt": "2026-07-16T06:12:19.760801+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
-      "id": "4893660",
-      "title": "7/16(목) 테스트 서버 점검 안내(06:30~14:00)",
-      "date": "2026.07.14",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893660"
+      "id": "4893663",
+      "title": "7/16(목) 운영정책 위반 단속 결과 안내",
+      "date": "2026.07.16",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893663"
     },
     {
-      "id": "4893659",
-      "title": "7/16(목) 정식 서버 점검 안내(06:30~13:00)",
+      "id": "4893658",
+      "title": "성역의 발키리 박스",
+      "date": "2026.07.16",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893658"
+    },
+    {
+      "id": "4893661",
+      "title": "7/16(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.07.14",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893659"
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893661"
     },
     {
       "id": "4893638",
@@ -45,12 +51,6 @@
       "title": "7/6(월) 마비노기 커넥트 이벤트 보상 및 온타임 이벤트",
       "date": "2026.07.09",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893631"
-    },
-    {
-      "id": "4893608",
-      "title": "7/30(목) 미스틱 아틀리에 S2 종료 & 파에아의 황금빛 재봉 키트 일시 판매 종료 안내",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893608"
     }
   ]
 }
