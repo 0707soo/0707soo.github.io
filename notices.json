@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-07-21T01:51:26.527422+00:00",
+  "updatedAt": "2026-07-21T05:12:52.279423+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893664",
+      "title": "7/16(목) 패치 후 확인된 현상 안내",
+      "date": "2026.07.16",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893664"
+    },
     {
       "id": "4893662",
       "title": "7/16(목) 테스트 서버 패치 작업 변경점 안내",
@@ -45,12 +51,6 @@
       "title": "PC방 Special Support 시즌",
       "date": "2026.07.09",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893636"
-    },
-    {
-      "id": "4893632",
-      "title": "RE:ACTION 1차 업데이트 안내",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893632"
     }
   ]
 }
