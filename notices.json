@@ -1,20 +1,20 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-07-22T10:16:10.288286+00:00",
+  "updatedAt": "2026-07-22T12:09:59.499778+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893667",
+      "title": "7/23(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.07.21",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893667"
+    },
     {
       "id": "4893666",
       "title": "7/23(목) 정식 서버 점검 안내(06:30~12:30)",
       "date": "2026.07.21",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893666"
-    },
-    {
-      "id": "4893668",
-      "title": "7/22(수) 마비노기 커넥트 라이브 방송 사전 안내",
-      "date": "2026.07.21",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893668"
     },
     {
       "id": "4893658",
