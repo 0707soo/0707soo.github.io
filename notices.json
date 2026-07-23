@@ -1,20 +1,38 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-07-23T01:58:00.384367+00:00",
+  "updatedAt": "2026-07-23T05:24:01.978941+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893665",
+      "title": "7/23(목) 마비노기 이터니티 새로운 소식 업데이트 안내",
+      "date": "2026.07.23",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893665"
+    },
+    {
+      "id": "4893654",
+      "title": "마비노기 이터니티 알파 테스트 크리에이터 모집 (7/23(목)~8/12(수))",
+      "date": "2026.07.23",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893654"
+    },
+    {
+      "id": "4893653",
+      "title": "마비노기 이터니티 알파 테스터 모집 (7/23(목)~8/12(수))",
+      "date": "2026.07.23",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893653"
+    },
+    {
+      "id": "4893670",
+      "title": "7/22(수) 마비노기 커넥트 라이브 방송 보상 안내",
+      "date": "2026.07.22",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893670"
+    },
     {
       "id": "4893667",
       "title": "7/23(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.07.21",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893667"
-    },
-    {
-      "id": "4893666",
-      "title": "7/23(목) 정식 서버 점검 안내(06:30~12:30)",
-      "date": "2026.07.21",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893666"
     },
     {
       "id": "4893658",
@@ -33,24 +51,6 @@
       "title": "마비노기 피버 시즌 이벤트 안내",
       "date": "2026.07.09",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893637"
-    },
-    {
-      "id": "4893636",
-      "title": "PC방 Special Support 시즌",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893636"
-    },
-    {
-      "id": "4893632",
-      "title": "RE:ACTION 1차 업데이트 안내",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893632"
-    },
-    {
-      "id": "4893631",
-      "title": "7/6(월) 마비노기 커넥트 이벤트 보상 및 온타임 이벤트",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893631"
     }
   ]
 }
