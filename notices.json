@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-07-23T05:24:01.978941+00:00",
+  "updatedAt": "2026-07-23T07:54:34.536442+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893676",
+      "title": "타이니 히어로 펫 박스",
+      "date": "2026.07.23",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893676"
+    },
     {
       "id": "4893665",
       "title": "7/23(목) 마비노기 이터니티 새로운 소식 업데이트 안내",
@@ -45,12 +51,6 @@
       "title": "겟잇 뷰티 박스 2026",
       "date": "2026.07.09",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893638"
-    },
-    {
-      "id": "4893637",
-      "title": "마비노기 피버 시즌 이벤트 안내",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893637"
     }
   ]
 }
