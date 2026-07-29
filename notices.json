@@ -1,56 +1,7 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-07-29T20:42:50.679225+00:00",
-  "status": "ok",
-  "count": 8,
-  "items": [
-    {
-      "id": "4893696",
-      "title": "7/30(목) 정식 서버 점검 안내(05:30~12:00)",
-      "date": "2026.07.28",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893696"
-    },
-    {
-      "id": "4893695",
-      "title": "7/30(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.07.28",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893695"
-    },
-    {
-      "id": "4893694",
-      "title": "(내용추가4) 7/23(목) 패치 후 확인된 현상 안내",
-      "date": "2026.07.23",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893694"
-    },
-    {
-      "id": "4893676",
-      "title": "타이니 히어로 펫 박스",
-      "date": "2026.07.23",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893676"
-    },
-    {
-      "id": "4893654",
-      "title": "마비노기 이터니티 알파 테스트 크리에이터 모집 (7/23(목)~8/12(수))",
-      "date": "2026.07.23",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893654"
-    },
-    {
-      "id": "4893653",
-      "title": "마비노기 이터니티 알파 테스터 모집 (7/23(목)~8/12(수))",
-      "date": "2026.07.23",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893653"
-    },
-    {
-      "id": "4893670",
-      "title": "7/22(수) 마비노기 커넥트 라이브 방송 보상 안내",
-      "date": "2026.07.22",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893670"
-    },
-    {
-      "id": "4893658",
-      "title": "성역의 발키리 박스",
-      "date": "2026.07.16",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893658"
-    }
-  ]
+  "updatedAt": "2026-07-29T21:51:11.214037+00:00",
+  "status": "maintenance",
+  "count": 0,
+  "items": []
 }
