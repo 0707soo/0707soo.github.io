@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-08-02T22:24:12.611160+00:00",
+  "updatedAt": "2026-08-02T23:26:05.780385+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -15,6 +15,12 @@
       "title": "[수정] 7/30(목) 테스트 서버 패치 작업 변경점 안내",
       "date": "2026.07.30",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893700"
+    },
+    {
+      "id": "4893699",
+      "title": "7월 2026 여름 업데이트 2차 공개 테스트 서버 버그 리포트 이벤트 안내",
+      "date": "2026.07.30",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893699"
     },
     {
       "id": "4893695",
@@ -45,12 +51,6 @@
       "title": "(수정) 7/22(수) 마비노기 커넥트 라이브 방송 보상 안내",
       "date": "2026.07.22",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893670"
-    },
-    {
-      "id": "4893658",
-      "title": "성역의 발키리 박스",
-      "date": "2026.07.16",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893658"
     }
   ]
 }
