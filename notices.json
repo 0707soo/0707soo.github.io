@@ -1,20 +1,20 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-08-06T01:46:36.327567+00:00",
+  "updatedAt": "2026-08-06T04:57:39.058534+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
-      "id": "4893705",
-      "title": "8/6(목) 정식 서버 점검 안내(05:30~12:00)",
-      "date": "2026.08.04",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893705"
+      "id": "4893708",
+      "title": "아르텔 로드 패션 컬렉션",
+      "date": "2026.08.06",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893708"
     },
     {
-      "id": "4893704",
-      "title": "8/6(목) 테스트 서버 점검 안내(05:30~13:00)",
+      "id": "4893706",
+      "title": "8/6(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.08.04",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893704"
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893706"
     },
     {
       "id": "4893703",
