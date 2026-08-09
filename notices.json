@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-08-09T22:20:09.074510+00:00",
+  "updatedAt": "2026-08-09T22:57:06.230807+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -21,12 +21,6 @@
       "title": "8/6(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.08.04",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893706"
-    },
-    {
-      "id": "4893703",
-      "title": "7/31(금) 운영정책 위반 단속 결과 안내",
-      "date": "2026.07.31",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893703"
     },
     {
       "id": "4893699",
@@ -51,6 +45,12 @@
       "title": "마비노기 이터니티 알파 테스터 모집 (7/23(목)~8/12(수))",
       "date": "2026.07.23",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893653"
+    },
+    {
+      "id": "4893670",
+      "title": "(수정) 7/22(수) 마비노기 커넥트 라이브 방송 보상 안내",
+      "date": "2026.07.22",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893670"
     }
   ]
 }
