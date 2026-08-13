@@ -1,9 +1,33 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-08-13T03:36:32.796617+00:00",
+  "updatedAt": "2026-08-13T05:27:29.065966+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893720",
+      "title": "8/13(목) 패치 후 확인된 현상 안내",
+      "date": "2026.08.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893720"
+    },
+    {
+      "id": "4893716",
+      "title": "올 윙 박스 2026",
+      "date": "2026.08.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893716"
+    },
+    {
+      "id": "4893713",
+      "title": "빛을 되찾은 날, 2026 광복절 이벤트",
+      "date": "2026.08.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893713"
+    },
+    {
+      "id": "4893711",
+      "title": "블랙 콤보 카드 이벤트",
+      "date": "2026.08.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893711"
+    },
     {
       "id": "4893714",
       "title": "8/13(목) 정식 서버 패치 작업 변경점 안내",
@@ -27,30 +51,6 @@
       "title": "마비노기 피버 시즌 이벤트 안내",
       "date": "2026.07.09",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893637"
-    },
-    {
-      "id": "4893636",
-      "title": "PC방 Special Support 시즌",
-      "date": "2026.07.09",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893636"
-    },
-    {
-      "id": "4893618",
-      "title": "운명의 바람 인형 가방의 선물 상자",
-      "date": "2026.07.02",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893618"
-    },
-    {
-      "id": "4893598",
-      "title": "생활 및 교역 시즌 교체일 변경 안내(7/2(목) -> 9/3(목))",
-      "date": "2026.06.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893598"
-    },
-    {
-      "id": "4893564",
-      "title": "마일리지 서비스 시즌11",
-      "date": "2026.06.11",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
     }
   ]
 }
