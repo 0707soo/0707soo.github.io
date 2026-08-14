@@ -1,15 +1,9 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-08-14T03:33:44.817125+00:00",
+  "updatedAt": "2026-08-14T05:25:10.291964+00:00",
   "status": "ok",
   "count": 8,
   "items": [
-    {
-      "id": "4893724",
-      "title": "[완료/점검보상] 8/14(금) 정식 서버 임시 점검 안내 (07:00~09:00)",
-      "date": "2026.08.13",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893724"
-    },
     {
       "id": "4893723",
       "title": "RE:ACTION 2차 업데이트 안내",
@@ -51,6 +45,12 @@
       "title": "아르텔 로드 패션 컬렉션",
       "date": "2026.08.06",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893708"
+    },
+    {
+      "id": "4893676",
+      "title": "타이니 히어로 펫 박스",
+      "date": "2026.07.23",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893676"
     }
   ]
 }
