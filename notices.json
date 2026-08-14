@@ -1,12 +1,12 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-08-13T23:32:00.344481+00:00",
+  "updatedAt": "2026-08-14T01:10:41.525976+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
       "id": "4893722",
-      "title": "장비 계승 시스템 임시 제한 안내",
+      "title": "(완료) 장비 계승 시스템 임시 제한 안내",
       "date": "2026.08.13",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893722"
     },
@@ -18,7 +18,7 @@
     },
     {
       "id": "4893720",
-      "title": "(내용추가3) 8/13(목) 패치 후 확인된 현상 안내",
+      "title": "(내용추가4) 8/13(목) 패치 후 확인된 현상 안내",
       "date": "2026.08.13",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893720"
     },
