@@ -1,21 +1,9 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-08-17T22:47:10.102103+00:00",
+  "updatedAt": "2026-08-17T23:14:01.117437+00:00",
   "status": "ok",
   "count": 8,
   "items": [
-    {
-      "id": "4893718",
-      "title": "8/14(금) 운영정책 위반 단속 결과 안내",
-      "date": "2026.08.14",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893718"
-    },
-    {
-      "id": "4893723",
-      "title": "RE:ACTION 2차 업데이트 안내",
-      "date": "2026.08.13",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893723"
-    },
     {
       "id": "4893720",
       "title": "(내용추가5) 8/13(목) 패치 후 확인된 현상 안내",
@@ -51,6 +39,18 @@
       "title": "아르텔 로드 패션 컬렉션",
       "date": "2026.08.06",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893708"
+    },
+    {
+      "id": "4893676",
+      "title": "타이니 히어로 펫 박스",
+      "date": "2026.07.23",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893676"
+    },
+    {
+      "id": "4893637",
+      "title": "마비노기 피버 시즌 이벤트 안내",
+      "date": "2026.07.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893637"
     }
   ]
 }
