@@ -1,15 +1,9 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-08-20T02:11:19.671261+00:00",
+  "updatedAt": "2026-08-20T03:22:24.462242+00:00",
   "status": "ok",
   "count": 8,
   "items": [
-    {
-      "id": "4893727",
-      "title": "(수정) 8/20(목) 정식 서버 점검 안내(04:00~11:00)",
-      "date": "2026.08.18",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893727"
-    },
     {
       "id": "4893726",
       "title": "8/20(목) 정식 서버 패치 작업 변경점 안내",
@@ -51,6 +45,12 @@
       "title": "마비노기 피버 시즌 이벤트 안내",
       "date": "2026.07.09",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893637"
+    },
+    {
+      "id": "4893636",
+      "title": "PC방 Special Support 시즌",
+      "date": "2026.07.09",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893636"
     }
   ]
 }
