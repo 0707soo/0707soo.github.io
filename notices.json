@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-08-26T10:25:25.008904+00:00",
+  "updatedAt": "2026-08-26T10:58:55.351901+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -21,12 +21,6 @@
       "title": "마비노기 이터니티 알파 테스터 선정 안내 (8/25(화)~9/6(일))",
       "date": "2026.08.25",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893729"
-    },
-    {
-      "id": "4893739",
-      "title": "8/26(수) 마비노기 커넥트 라이브 방송 사전 안내",
-      "date": "2026.08.24",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893739"
     },
     {
       "id": "4893740",
@@ -51,6 +45,12 @@
       "title": "올 윙 박스 2026",
       "date": "2026.08.13",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893716"
+    },
+    {
+      "id": "4893711",
+      "title": "블랙 콤보 카드 이벤트",
+      "date": "2026.08.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893711"
     }
   ]
 }
