@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-08-26T14:35:06.360511+00:00",
+  "updatedAt": "2026-08-26T16:10:18.820981+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -41,16 +41,16 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893723"
     },
     {
-      "id": "4893716",
-      "title": "올 윙 박스 2026",
-      "date": "2026.08.13",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893716"
-    },
-    {
       "id": "4893711",
       "title": "블랙 콤보 카드 이벤트",
       "date": "2026.08.13",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893711"
+    },
+    {
+      "id": "4893676",
+      "title": "타이니 히어로 펫 박스",
+      "date": "2026.07.23",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893676"
     }
   ]
 }
