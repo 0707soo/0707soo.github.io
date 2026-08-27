@@ -1,9 +1,21 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-08-27T05:55:52.597941+00:00",
+  "updatedAt": "2026-08-27T17:11:45.246533+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893751",
+      "title": "8월 탈라 가흐 던전 공개 테스트 서버 버그 리포트 이벤트 안내",
+      "date": "2026.08.27",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893751"
+    },
+    {
+      "id": "4893791",
+      "title": "2026년 9월 캐릭터 서버 이전, 낭만 농장/달빛 섬 이름 변경 서비스 진행일 안내",
+      "date": "2026.08.27",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893791"
+    },
     {
       "id": "4893752",
       "title": "블랙 앤 화이트 트윈 퍼핏 박스",
@@ -15,12 +27,6 @@
       "title": "판의 출석체크판 안내",
       "date": "2026.08.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
-    },
-    {
-      "id": "4893747",
-      "title": "(수정2) 8/27(목) 테스트 서버 점검 안내(05:30~16:30)",
-      "date": "2026.08.25",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893747"
     },
     {
       "id": "4893746",
@@ -45,12 +51,6 @@
       "title": "8/27(목) 테스트 서버 초기화 & 정식 서버 캐릭터 복사 일정 안내",
       "date": "2026.08.20",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893732"
-    },
-    {
-      "id": "4893723",
-      "title": "RE:ACTION 2차 업데이트 안내",
-      "date": "2026.08.13",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893723"
     }
   ]
 }
