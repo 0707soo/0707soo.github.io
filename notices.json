@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-08-27T17:11:45.246533+00:00",
+  "updatedAt": "2026-08-28T01:34:33.219899+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -41,16 +41,16 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893729"
     },
     {
-      "id": "4893740",
-      "title": "8/21(금) 운영정책 위반 단속 결과 안내",
-      "date": "2026.08.21",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893740"
+      "id": "4893723",
+      "title": "RE:ACTION 2차 업데이트 안내",
+      "date": "2026.08.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893723"
     },
     {
-      "id": "4893732",
-      "title": "8/27(목) 테스트 서버 초기화 & 정식 서버 캐릭터 복사 일정 안내",
-      "date": "2026.08.20",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893732"
+      "id": "4893711",
+      "title": "블랙 콤보 카드 이벤트",
+      "date": "2026.08.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893711"
     }
   ]
 }
