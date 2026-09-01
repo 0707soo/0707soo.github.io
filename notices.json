@@ -1,9 +1,27 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-01T06:02:11.922666+00:00",
+  "updatedAt": "2026-09-01T11:51:21.214410+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893806",
+      "title": "9/3(목) 정식 서버 점검 안내(06:00~12:30)",
+      "date": "2026.09.01",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893806"
+    },
+    {
+      "id": "4893805",
+      "title": "9/3(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.09.01",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893805"
+    },
+    {
+      "id": "4893753",
+      "title": "(수정) 마비노기 이터니티 알파 테스트 페이지 오픈 안내",
+      "date": "2026.09.01",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893753"
+    },
     {
       "id": "4893800",
       "title": "(내용추가) 8/27(목) 패치 후 확인된 현상 안내",
@@ -33,24 +51,6 @@
       "title": "2026년 9월 캐릭터 서버 이전, 낭만 농장/달빛 섬 이름 변경 서비스 진행일 안내",
       "date": "2026.08.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893791"
-    },
-    {
-      "id": "4893752",
-      "title": "블랙 앤 화이트 트윈 퍼핏 박스",
-      "date": "2026.08.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893752"
-    },
-    {
-      "id": "4893742",
-      "title": "판의 출석체크판 안내",
-      "date": "2026.08.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
-    },
-    {
-      "id": "4893746",
-      "title": "8/27(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.08.25",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893746"
     }
   ]
 }
