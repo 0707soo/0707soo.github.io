@@ -1,20 +1,14 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-03T19:58:43.871644+00:00",
+  "updatedAt": "2026-09-03T22:21:12.417749+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
-      "id": "4893807",
-      "title": "9/3(목) 테스트 서버 점검 안내(06:00~13:30)",
-      "date": "2026.09.01",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893807"
-    },
-    {
-      "id": "4893806",
-      "title": "9/3(목) 정식 서버 점검 안내(06:00~12:30)",
-      "date": "2026.09.01",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893806"
+      "id": "4893811",
+      "title": "9/3(목) 테스트 서버 패치 작업 변경점 안내",
+      "date": "2026.09.03",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893811"
     },
     {
       "id": "4893805",
@@ -51,6 +45,12 @@
       "title": "판의 출석체크판 안내",
       "date": "2026.08.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
+    },
+    {
+      "id": "4893729",
+      "title": "(수정) 마비노기 이터니티 알파 테스터 선정 안내 (8/25(화)~9/6(일))",
+      "date": "2026.08.25",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893729"
     }
   ]
 }
