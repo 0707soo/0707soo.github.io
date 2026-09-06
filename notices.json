@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-06T09:03:58.283527+00:00",
+  "updatedAt": "2026-09-06T12:59:25.258076+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -15,12 +15,6 @@
       "title": "(수정) 9/3(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.09.01",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893805"
-    },
-    {
-      "id": "4893753",
-      "title": "(수정) 마비노기 이터니티 알파 테스트 페이지 오픈 안내",
-      "date": "2026.09.01",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893753"
     },
     {
       "id": "4893751",
@@ -47,10 +41,16 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
     },
     {
-      "id": "4893729",
-      "title": "(수정) 마비노기 이터니티 알파 테스터 선정 안내 (8/25(화)~9/6(일))",
-      "date": "2026.08.25",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893729"
+      "id": "4893723",
+      "title": "RE:ACTION 2차 업데이트 안내",
+      "date": "2026.08.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893723"
+    },
+    {
+      "id": "4893711",
+      "title": "블랙 콤보 카드 이벤트",
+      "date": "2026.08.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893711"
     }
   ]
 }
