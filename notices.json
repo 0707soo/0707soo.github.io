@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-08T20:47:05.070360+00:00",
+  "updatedAt": "2026-09-08T23:04:07.776781+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -15,24 +15,6 @@
       "title": "9/7(월) 마비노기 이터니티 새로운 소식 업데이트 안내",
       "date": "2026.09.07",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893822"
-    },
-    {
-      "id": "4893813",
-      "title": "(내용추가4) 9/3(목) 패치 후 확인된 현상 안내",
-      "date": "2026.09.03",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893813"
-    },
-    {
-      "id": "4893811",
-      "title": "9/3(목) 테스트 서버 패치 작업 변경점 안내",
-      "date": "2026.09.03",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893811"
-    },
-    {
-      "id": "4893805",
-      "title": "(수정) 9/3(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.09.01",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893805"
     },
     {
       "id": "4893751",
@@ -51,6 +33,24 @@
       "title": "블랙 앤 화이트 트윈 퍼핏 박스",
       "date": "2026.08.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893752"
+    },
+    {
+      "id": "4893742",
+      "title": "판의 출석체크판 안내",
+      "date": "2026.08.27",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
+    },
+    {
+      "id": "4893723",
+      "title": "RE:ACTION 2차 업데이트 안내",
+      "date": "2026.08.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893723"
+    },
+    {
+      "id": "4893711",
+      "title": "블랙 콤보 카드 이벤트",
+      "date": "2026.08.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893711"
     }
   ]
 }
