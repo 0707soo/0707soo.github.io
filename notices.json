@@ -1,9 +1,21 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-08T05:28:33.014462+00:00",
+  "updatedAt": "2026-09-08T09:57:38.778667+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893828",
+      "title": "9월 정식 서버 업데이트 작업 변경점 안내",
+      "date": "2026.09.08",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893828"
+    },
+    {
+      "id": "4893822",
+      "title": "9/7(월) 마비노기 이터니티 새로운 소식 업데이트 안내",
+      "date": "2026.09.07",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893822"
+    },
     {
       "id": "4893813",
       "title": "(내용추가4) 9/3(목) 패치 후 확인된 현상 안내",
@@ -39,18 +51,6 @@
       "title": "블랙 앤 화이트 트윈 퍼핏 박스",
       "date": "2026.08.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893752"
-    },
-    {
-      "id": "4893742",
-      "title": "판의 출석체크판 안내",
-      "date": "2026.08.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
-    },
-    {
-      "id": "4893723",
-      "title": "RE:ACTION 2차 업데이트 안내",
-      "date": "2026.08.13",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893723"
     }
   ]
 }
