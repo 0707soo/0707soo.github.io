@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-10T01:15:11.210831+00:00",
+  "updatedAt": "2026-09-10T06:12:19.487482+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -48,7 +48,7 @@
     },
     {
       "id": "4893829",
-      "title": "9/10(목) 정식 서버 점검 안내(06:00~13:30)",
+      "title": "[연장] 9/10(목) 정식 서버 점검 안내(06:00~16:00)",
       "date": "2026.09.08",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893829"
     }
