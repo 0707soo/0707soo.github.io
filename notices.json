@@ -1,9 +1,33 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-10T06:12:19.487482+00:00",
+  "updatedAt": "2026-09-10T11:35:32.030305+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893831",
+      "title": "비단 운문 한복 상자",
+      "date": "2026.09.10",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893831"
+    },
+    {
+      "id": "4893830",
+      "title": "신규 던전 '탈라 가흐' 업데이트 안내",
+      "date": "2026.09.10",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893830"
+    },
+    {
+      "id": "4893818",
+      "title": "아주 유망한 돌멩이 이벤트 안내",
+      "date": "2026.09.10",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893818"
+    },
+    {
+      "id": "4893829",
+      "title": "[완료/점검보상] 9/10(목) 정식 서버 점검 안내(06:00~15:30)",
+      "date": "2026.09.08",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893829"
+    },
     {
       "id": "4893828",
       "title": "(수정) 9월 정식 서버 업데이트 작업 변경점 안내",
@@ -27,30 +51,6 @@
       "title": "판의 출석체크판 안내",
       "date": "2026.08.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
-    },
-    {
-      "id": "4893711",
-      "title": "블랙 콤보 카드 이벤트",
-      "date": "2026.08.13",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893711"
-    },
-    {
-      "id": "4893564",
-      "title": "마일리지 서비스 시즌11",
-      "date": "2026.06.11",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
-    },
-    {
-      "id": "4893487",
-      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
-      "date": "2026.04.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
-    },
-    {
-      "id": "4893829",
-      "title": "[연장] 9/10(목) 정식 서버 점검 안내(06:00~16:00)",
-      "date": "2026.09.08",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893829"
     }
   ]
 }
