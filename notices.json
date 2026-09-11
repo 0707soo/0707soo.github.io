@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-11T01:16:04.355537+00:00",
+  "updatedAt": "2026-09-11T06:15:59.905812+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893838",
+      "title": "(내용추가3) 9/10(목) 패치 후 확인된 현상 안내",
+      "date": "2026.09.10",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893838"
+    },
     {
       "id": "4893831",
       "title": "비단 운문 한복 상자",
@@ -21,12 +27,6 @@
       "title": "아주 유망한 돌멩이 이벤트 안내",
       "date": "2026.09.10",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893818"
-    },
-    {
-      "id": "4893829",
-      "title": "[완료/점검보상] 9/10(목) 정식 서버 점검 안내(06:00~15:30)",
-      "date": "2026.09.08",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893829"
     },
     {
       "id": "4893828",
