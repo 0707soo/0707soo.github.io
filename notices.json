@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-15T22:33:35.186444+00:00",
+  "updatedAt": "2026-09-16T00:54:06.817054+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -21,12 +21,6 @@
       "title": "9/17(목) 마비노기 커넥트 라이브 방송 사전 안내",
       "date": "2026.09.15",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893840"
-    },
-    {
-      "id": "4893839",
-      "title": "9/11(금) 운영정책 위반 단속 결과 안내",
-      "date": "2026.09.11",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893839"
     },
     {
       "id": "4893838",
@@ -51,6 +45,12 @@
       "title": "아주 유망한 돌멩이 이벤트 안내",
       "date": "2026.09.10",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893818"
+    },
+    {
+      "id": "4893791",
+      "title": "2026년 9월 캐릭터 서버 이전, 낭만 농장/달빛 섬 이름 변경 서비스 진행일 안내",
+      "date": "2026.08.27",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893791"
     }
   ]
 }
