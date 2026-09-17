@@ -1,12 +1,24 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-16T23:59:39.322742+00:00",
+  "updatedAt": "2026-09-17T04:10:57.690517+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
+      "id": "4893845",
+      "title": "9/17(목) 테스트 서버 패치 작업 변경점 안내",
+      "date": "2026.09.17",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893845"
+    },
+    {
+      "id": "4893843",
+      "title": "[완료] (수정) 9/17(목) 테스트 서버 점검 안내(06:25~12:00)",
+      "date": "2026.09.15",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893843"
+    },
+    {
       "id": "4893842",
-      "title": "(수정) 9/17(목) 정식 서버 점검 안내(06:25~11:30)",
+      "title": "[완료/점검보상] (수정) 9/17(목) 정식 서버 점검 안내(06:25~11:30)",
       "date": "2026.09.15",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893842"
     },
@@ -39,18 +51,6 @@
       "title": "아주 유망한 돌멩이 이벤트 안내",
       "date": "2026.09.10",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893818"
-    },
-    {
-      "id": "4893791",
-      "title": "2026년 9월 캐릭터 서버 이전, 낭만 농장/달빛 섬 이름 변경 서비스 진행일 안내",
-      "date": "2026.08.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893791"
-    },
-    {
-      "id": "4893742",
-      "title": "판의 출석체크판 안내",
-      "date": "2026.08.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
     }
   ]
 }
