@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-17T21:50:17.825610+00:00",
+  "updatedAt": "2026-09-17T23:48:25.769130+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -29,12 +29,6 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893841"
     },
     {
-      "id": "4893840",
-      "title": "9/17(목) 마비노기 커넥트 라이브 방송 사전 안내",
-      "date": "2026.09.15",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893840"
-    },
-    {
       "id": "4893831",
       "title": "비단 운문 한복 상자",
       "date": "2026.09.10",
@@ -51,6 +45,12 @@
       "title": "아주 유망한 돌멩이 이벤트 안내",
       "date": "2026.09.10",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893818"
+    },
+    {
+      "id": "4893742",
+      "title": "판의 출석체크판 안내",
+      "date": "2026.08.27",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
     }
   ]
 }
