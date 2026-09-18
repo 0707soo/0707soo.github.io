@@ -1,26 +1,14 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-18T02:23:17.931678+00:00",
+  "updatedAt": "2026-09-18T07:30:34.676625+00:00",
   "status": "ok",
   "count": 8,
   "items": [
-    {
-      "id": "4893846",
-      "title": "(내용추가) 9/17(목) 패치 후 확인된 현상 안내",
-      "date": "2026.09.17",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893846"
-    },
     {
       "id": "4893845",
       "title": "9/17(목) 테스트 서버 패치 작업 변경점 안내",
       "date": "2026.09.17",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893845"
-    },
-    {
-      "id": "4893842",
-      "title": "[완료/점검보상] (수정) 9/17(목) 정식 서버 점검 안내(06:25~11:30)",
-      "date": "2026.09.15",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893842"
     },
     {
       "id": "4893841",
@@ -51,6 +39,18 @@
       "title": "판의 출석체크판 안내",
       "date": "2026.08.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
+    },
+    {
+      "id": "4893711",
+      "title": "블랙 콤보 카드 이벤트",
+      "date": "2026.08.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893711"
+    },
+    {
+      "id": "4893564",
+      "title": "마일리지 서비스 시즌11",
+      "date": "2026.06.11",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
     }
   ]
 }
