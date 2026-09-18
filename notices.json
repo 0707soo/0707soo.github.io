@@ -1,20 +1,20 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-18T07:30:34.676625+00:00",
+  "updatedAt": "2026-09-18T12:31:22.455987+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
-      "id": "4893845",
-      "title": "9/17(목) 테스트 서버 패치 작업 변경점 안내",
-      "date": "2026.09.17",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893845"
+      "id": "4893853",
+      "title": "9/22(화) 정식 서버 점검 안내(05:30~12:00)",
+      "date": "2026.09.18",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893853"
     },
     {
-      "id": "4893841",
-      "title": "9/17(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.09.15",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893841"
+      "id": "4893851",
+      "title": "9/22(화) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.09.18",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893851"
     },
     {
       "id": "4893831",
