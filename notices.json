@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-22T05:12:07.218997+00:00",
+  "updatedAt": "2026-09-22T10:08:21.263727+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -15,18 +15,6 @@
       "title": "9/17(목) 마비노기 커넥트 온타임 이벤트",
       "date": "2026.09.22",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893852"
-    },
-    {
-      "id": "4893854",
-      "title": "9/22(화) 테스트 서버 점검 안내(05:30~13:00)",
-      "date": "2026.09.18",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893854"
-    },
-    {
-      "id": "4893853",
-      "title": "9/22(화) 정식 서버 점검 안내(05:30~12:00)",
-      "date": "2026.09.18",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893853"
     },
     {
       "id": "4893851",
@@ -51,6 +39,18 @@
       "title": "아주 유망한 돌멩이 이벤트 안내",
       "date": "2026.09.10",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893818"
+    },
+    {
+      "id": "4893742",
+      "title": "판의 출석체크판 안내",
+      "date": "2026.08.27",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
+    },
+    {
+      "id": "4893711",
+      "title": "블랙 콤보 카드 이벤트",
+      "date": "2026.08.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893711"
     }
   ]
 }
