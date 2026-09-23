@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-23T05:23:28.425168+00:00",
+  "updatedAt": "2026-09-23T10:10:14.927320+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893857",
+      "title": "달에게 소원을 & 오검 상자 특별 지원 이벤트",
+      "date": "2026.09.22",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893857"
+    },
     {
       "id": "4893855",
       "title": "2026 한가위 선물 세트",
@@ -45,12 +51,6 @@
       "title": "판의 출석체크판 안내",
       "date": "2026.08.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
-    },
-    {
-      "id": "4893711",
-      "title": "블랙 콤보 카드 이벤트",
-      "date": "2026.08.13",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893711"
     }
   ]
 }
