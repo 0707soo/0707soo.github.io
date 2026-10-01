@@ -1,14 +1,20 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-10-01T00:16:52.970455+00:00",
+  "updatedAt": "2026-10-01T06:14:53.211313+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
-      "id": "4893859",
-      "title": "10/1(목) 정식 서버 점검 안내(06:00~11:30)",
+      "id": "4893863",
+      "title": "나이트메어 판타지아 박스",
+      "date": "2026.10.01",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893863"
+    },
+    {
+      "id": "4893860",
+      "title": "10/1(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.09.29",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893859"
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893860"
     },
     {
       "id": "4893857",
@@ -45,12 +51,6 @@
       "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
       "date": "2026.04.26",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
-    },
-    {
-      "id": "4893860",
-      "title": "10/1(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.09.29",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893860"
     }
   ]
 }
