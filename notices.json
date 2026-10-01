@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-09-30T20:54:25.093677+00:00",
+  "updatedAt": "2026-10-01T00:16:52.970455+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -9,12 +9,6 @@
       "title": "10/1(목) 정식 서버 점검 안내(06:00~11:30)",
       "date": "2026.09.29",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893859"
-    },
-    {
-      "id": "4893858",
-      "title": "9/22(화) 패치 후 확인된 현상 안내",
-      "date": "2026.09.23",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893858"
     },
     {
       "id": "4893857",
@@ -29,28 +23,34 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893855"
     },
     {
-      "id": "4893852",
-      "title": "9/17(목) 마비노기 커넥트 온타임 이벤트",
-      "date": "2026.09.22",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893852"
-    },
-    {
       "id": "4893830",
       "title": "신규 던전 '탈라 가흐' 업데이트 안내",
       "date": "2026.09.10",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893830"
     },
     {
-      "id": "4893818",
-      "title": "아주 유망한 돌멩이 이벤트 안내",
-      "date": "2026.09.10",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893818"
-    },
-    {
       "id": "4893742",
       "title": "판의 출석체크판 안내",
       "date": "2026.08.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
+    },
+    {
+      "id": "4893564",
+      "title": "마일리지 서비스 시즌11",
+      "date": "2026.06.11",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
+    },
+    {
+      "id": "4893860",
+      "title": "10/1(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.09.29",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893860"
     }
   ]
 }
