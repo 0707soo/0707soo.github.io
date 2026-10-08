@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-10-07T22:07:42.593105+00:00",
+  "updatedAt": "2026-10-08T02:07:27.005075+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -9,18 +9,6 @@
       "title": "10/8(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.10.06",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893872"
-    },
-    {
-      "id": "4893867",
-      "title": "10/2(금) 운영정책 위반 단속 결과 안내",
-      "date": "2026.10.02",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893867"
-    },
-    {
-      "id": "4893865",
-      "title": "(내용추가) 10/1(목) 패치 후 확인된 현상 안내",
-      "date": "2026.10.01",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893865"
     },
     {
       "id": "4893863",
@@ -41,16 +29,28 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893855"
     },
     {
-      "id": "4893830",
-      "title": "신규 던전 '탈라 가흐' 업데이트 안내",
-      "date": "2026.09.10",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893830"
-    },
-    {
       "id": "4893742",
       "title": "판의 출석체크판 안내",
       "date": "2026.08.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
+    },
+    {
+      "id": "4893564",
+      "title": "마일리지 서비스 시즌11",
+      "date": "2026.06.11",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
+    },
+    {
+      "id": "4893873",
+      "title": "10/8(목) 정식 서버 점검 안내(06:00~11:30)",
+      "date": "2026.10.06",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893873"
     }
   ]
 }
