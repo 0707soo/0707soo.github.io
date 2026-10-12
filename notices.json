@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-10-12T17:09:19.059084+00:00",
+  "updatedAt": "2026-10-12T23:40:26.154361+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -15,12 +15,6 @@
       "title": "가갸날 잔치",
       "date": "2026.10.08",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893871"
-    },
-    {
-      "id": "4893866",
-      "title": "10/12(월) 마비노기 커넥트 라이브 방송 사전 안내",
-      "date": "2026.10.08",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893866"
     },
     {
       "id": "4893872",
@@ -51,6 +45,12 @@
       "title": "판의 출석체크판 안내",
       "date": "2026.08.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
+    },
+    {
+      "id": "4893564",
+      "title": "마일리지 서비스 시즌11",
+      "date": "2026.06.11",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
     }
   ]
 }
