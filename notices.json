@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-10-14T21:49:53.176116+00:00",
+  "updatedAt": "2026-10-15T00:11:31.160698+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -11,28 +11,10 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893881"
     },
     {
-      "id": "4893880",
-      "title": "10/8(목) 패치 후 확인된 현상 안내",
-      "date": "2026.10.12",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893880"
-    },
-    {
-      "id": "4893864",
-      "title": "10/8(목) 마비노기 이터니티 새로운 소식 업데이트 안내",
-      "date": "2026.10.08",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893864"
-    },
-    {
       "id": "4893871",
       "title": "가갸날 잔치",
       "date": "2026.10.08",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893871"
-    },
-    {
-      "id": "4893857",
-      "title": "달에게 소원을 & 오검 상자 특별 지원 이벤트",
-      "date": "2026.09.22",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893857"
     },
     {
       "id": "4893855",
@@ -51,6 +33,24 @@
       "title": "마일리지 서비스 시즌11",
       "date": "2026.06.11",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
+    },
+    {
+      "id": "4893882",
+      "title": "10월 정식 서버 업데이트 작업 변경점 안내",
+      "date": "2026.10.13",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893882"
+    },
+    {
+      "id": "4893880",
+      "title": "10/8(목) 패치 후 확인된 현상 안내",
+      "date": "2026.10.12",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893880"
     }
   ]
 }
