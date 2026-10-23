@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-10-23T10:17:46.903924+00:00",
+  "updatedAt": "2026-10-23T15:15:46.336366+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -48,7 +48,7 @@
     },
     {
       "id": "4893898",
-      "title": "10/22(목) 패치 후 확인된 현상 안내",
+      "title": "(내용추가) 10/22(목) 패치 후 확인된 현상 안내",
       "date": "2026.10.23",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893898"
     }
