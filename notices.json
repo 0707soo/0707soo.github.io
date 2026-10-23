@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-10-22T21:47:35.126105+00:00",
+  "updatedAt": "2026-10-23T00:15:32.000996+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -9,12 +9,6 @@
       "title": "(수정2) 10/22(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.10.20",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893891"
-    },
-    {
-      "id": "4893890",
-      "title": "10/22(목) 테스트 서버 점검 안내(05:30~13:30)",
-      "date": "2026.10.20",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893890"
     },
     {
       "id": "4893883",
@@ -45,6 +39,12 @@
       "title": "10/29(목) 테스트 서버 초기화 & 정식 서버 캐릭터 복사 일정 안내",
       "date": "2026.10.22",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893892"
+    },
+    {
+      "id": "4893890",
+      "title": "10/22(목) 테스트 서버 점검 안내(05:30~13:30)",
+      "date": "2026.10.20",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893890"
     },
     {
       "id": "4893889",
