@@ -1,26 +1,26 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-10-29T03:38:18.914802+00:00",
+  "updatedAt": "2026-10-29T10:35:09.617366+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
-      "id": "4893904",
-      "title": "(수정) 10/29(목) 테스트 서버 점검 안내(05:30~15:30)",
-      "date": "2026.10.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893904"
+      "id": "4893894",
+      "title": "10월 탈라 가흐 던전 어려움 난이도 공개 테스트 서버 버그 리포트 이벤트 안내",
+      "date": "2026.10.29",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893894"
+    },
+    {
+      "id": "4893905",
+      "title": "[마비노기 X 고깔모자의 아틀리에] 온타임 이벤트 (11/5~11/12)",
+      "date": "2026.10.29",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893905"
     },
     {
       "id": "4893902",
       "title": "10/29(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.10.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893902"
-    },
-    {
-      "id": "4893892",
-      "title": "10/29(목) 테스트 서버 초기화 & 정식 서버 캐릭터 복사 일정 안내",
-      "date": "2026.10.22",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893892"
     },
     {
       "id": "4893883",
@@ -47,10 +47,10 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     },
     {
-      "id": "4893905",
-      "title": "[마비노기 X 고깔모자의 아틀리에] 온타임 이벤트 (11/5~11/12)",
+      "id": "4893906",
+      "title": "10/29(목) 테스트 서버 패치 작업 변경점 안내",
       "date": "2026.10.29",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893905"
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893906"
     }
   ]
 }
