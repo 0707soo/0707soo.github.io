@@ -1,9 +1,15 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-10-30T01:27:13.876379+00:00",
+  "updatedAt": "2026-10-30T07:29:49.279815+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893906",
+      "title": "10/29(목) 테스트 서버 패치 작업 변경점 안내",
+      "date": "2026.10.29",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893906"
+    },
     {
       "id": "4893894",
       "title": "10월 탈라 가흐 던전 어려움 난이도 공개 테스트 서버 버그 리포트 이벤트 안내",
@@ -45,12 +51,6 @@
       "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
       "date": "2026.04.26",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
-    },
-    {
-      "id": "4893906",
-      "title": "10/29(목) 테스트 서버 패치 작업 변경점 안내",
-      "date": "2026.10.29",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893906"
     }
   ]
 }
