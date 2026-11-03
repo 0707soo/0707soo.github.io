@@ -1,14 +1,26 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-11-03T02:30:14.195887+00:00",
+  "updatedAt": "2026-11-03T10:18:30.529625+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
-      "id": "4893906",
-      "title": "10/29(목) 테스트 서버 패치 작업 변경점 안내",
-      "date": "2026.10.29",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893906"
+      "id": "4893910",
+      "title": "11/5(목) 테스트 서버 점검 안내(06:00~11:30)",
+      "date": "2026.11.03",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893910"
+    },
+    {
+      "id": "4893909",
+      "title": "11/5(목) 정식 서버 점검 안내(06:00~11:00)",
+      "date": "2026.11.03",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893909"
+    },
+    {
+      "id": "4893913",
+      "title": "(내용추가) 10/29(목) 패치 후 확인된 현상 안내",
+      "date": "2026.11.03",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893913"
     },
     {
       "id": "4893894",
@@ -21,12 +33,6 @@
       "title": "[마비노기 X 고깔모자의 아틀리에] 온타임 이벤트 (11/5~11/12)",
       "date": "2026.10.29",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893905"
-    },
-    {
-      "id": "4893902",
-      "title": "10/29(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.10.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893902"
     },
     {
       "id": "4893883",
@@ -45,12 +51,6 @@
       "title": "마일리지 서비스 시즌11",
       "date": "2026.06.11",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
-    },
-    {
-      "id": "4893487",
-      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
-      "date": "2026.04.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     }
   ]
 }
