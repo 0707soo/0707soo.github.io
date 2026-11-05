@@ -1,26 +1,14 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-11-04T23:48:59.873744+00:00",
+  "updatedAt": "2026-11-05T04:24:20.294015+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
-      "id": "4893910",
-      "title": "11/5(목) 테스트 서버 점검 안내(06:00~11:30)",
+      "id": "4893911",
+      "title": "11/5(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.11.03",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893910"
-    },
-    {
-      "id": "4893909",
-      "title": "11/5(목) 정식 서버 점검 안내(06:00~11:00)",
-      "date": "2026.11.03",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893909"
-    },
-    {
-      "id": "4893913",
-      "title": "(내용추가) 10/29(목) 패치 후 확인된 현상 안내",
-      "date": "2026.11.03",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893913"
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893911"
     },
     {
       "id": "4893894",
@@ -51,6 +39,18 @@
       "title": "마일리지 서비스 시즌11",
       "date": "2026.06.11",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
+    },
+    {
+      "id": "4893914",
+      "title": "11/5(목) 테스트 서버 패치 작업 변경점 안내",
+      "date": "2026.11.05",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893914"
     }
   ]
 }
