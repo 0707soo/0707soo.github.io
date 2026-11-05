@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-11-05T04:24:20.294015+00:00",
+  "updatedAt": "2026-11-05T12:35:58.633615+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -47,10 +47,10 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     },
     {
-      "id": "4893914",
-      "title": "11/5(목) 테스트 서버 패치 작업 변경점 안내",
+      "id": "4893915",
+      "title": "11/5(목) 패치 후 확인된 현상 안내",
       "date": "2026.11.05",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893914"
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893915"
     }
   ]
 }
