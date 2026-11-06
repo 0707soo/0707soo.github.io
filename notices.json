@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-11-05T20:24:32.381817+00:00",
+  "updatedAt": "2026-11-06T00:59:53.961291+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -47,10 +47,10 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     },
     {
-      "id": "4893915",
-      "title": "11/5(목) 패치 후 확인된 현상 안내",
-      "date": "2026.11.05",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893915"
+      "id": "4893912",
+      "title": "11/6(금) 운영정책 위반 단속 결과 안내",
+      "date": "2026.11.06",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893912"
     }
   ]
 }
