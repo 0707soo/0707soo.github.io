@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-11-11T21:39:42.339053+00:00",
+  "updatedAt": "2026-11-12T02:36:29.475971+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -17,30 +17,6 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893918"
     },
     {
-      "id": "4893915",
-      "title": "(내용추가2) 11/5(목) 패치 후 확인된 현상 안내",
-      "date": "2026.11.05",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893915"
-    },
-    {
-      "id": "4893894",
-      "title": "10월 탈라 가흐 던전 어려움 난이도 공개 테스트 서버 버그 리포트 이벤트 안내",
-      "date": "2026.10.29",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893894"
-    },
-    {
-      "id": "4893905",
-      "title": "[마비노기 X 고깔모자의 아틀리에] 온타임 이벤트 (11/5~11/12)",
-      "date": "2026.10.29",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893905"
-    },
-    {
-      "id": "4893883",
-      "title": "마비노기 X 고깔모자의 아틀리에 이벤트",
-      "date": "2026.10.15",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893883"
-    },
-    {
       "id": "4893742",
       "title": "판의 출석체크판 안내",
       "date": "2026.08.27",
@@ -51,6 +27,30 @@
       "title": "마일리지 서비스 시즌11",
       "date": "2026.06.11",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
+    },
+    {
+      "id": "4893920",
+      "title": "11/12(목) 정식 서버 점검 안내(04:30~13:30)",
+      "date": "2026.11.10",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893920"
+    },
+    {
+      "id": "4893912",
+      "title": "11/6(금) 운영정책 위반 단속 결과 안내",
+      "date": "2026.11.06",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893912"
+    },
+    {
+      "id": "4893915",
+      "title": "(내용추가2) 11/5(목) 패치 후 확인된 현상 안내",
+      "date": "2026.11.05",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893915"
     }
   ]
 }
