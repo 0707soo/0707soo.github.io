@@ -1,20 +1,32 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-11-12T02:36:29.475971+00:00",
+  "updatedAt": "2026-11-12T10:28:57.215793+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
-      "id": "4893919",
-      "title": "11월 정식 서버 업데이트 작업 변경점 안내",
-      "date": "2026.11.10",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893919"
+      "id": "4893924",
+      "title": "모모전 이벤트",
+      "date": "2026.11.12",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893924"
     },
     {
-      "id": "4893918",
-      "title": "11/10(화) 일부 웹 서버 점검 안내 (00:42~)",
+      "id": "4893923",
+      "title": "소피 니트 박스",
+      "date": "2026.11.12",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893923"
+    },
+    {
+      "id": "4893917",
+      "title": "2026 마비노기 겨울 쇼케이스 'RE:MEMBER' 사전 안내",
+      "date": "2026.11.12",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893917"
+    },
+    {
+      "id": "4893919",
+      "title": "(수정) 11월 정식 서버 업데이트 작업 변경점 안내",
       "date": "2026.11.10",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893918"
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893919"
     },
     {
       "id": "4893742",
@@ -35,22 +47,10 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     },
     {
-      "id": "4893920",
-      "title": "11/12(목) 정식 서버 점검 안내(04:30~13:30)",
-      "date": "2026.11.10",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893920"
-    },
-    {
-      "id": "4893912",
-      "title": "11/6(금) 운영정책 위반 단속 결과 안내",
-      "date": "2026.11.06",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893912"
-    },
-    {
-      "id": "4893915",
-      "title": "(내용추가2) 11/5(목) 패치 후 확인된 현상 안내",
-      "date": "2026.11.05",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893915"
+      "id": "4893926",
+      "title": "[완료/점검보상] 11/12(목) 정식 서버 임시 점검 안내 (17:00~18:30)",
+      "date": "2026.11.12",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893926"
     }
   ]
 }
