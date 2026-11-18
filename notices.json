@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-11-17T19:56:35.562241+00:00",
+  "updatedAt": "2026-11-18T02:00:52.782813+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -41,16 +41,16 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893917"
     },
     {
-      "id": "4893919",
-      "title": "(수정) 11월 정식 서버 업데이트 작업 변경점 안내",
-      "date": "2026.11.10",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893919"
-    },
-    {
       "id": "4893742",
       "title": "판의 출석체크판 안내",
       "date": "2026.08.27",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
+    },
+    {
+      "id": "4893564",
+      "title": "마일리지 서비스 시즌11",
+      "date": "2026.06.11",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
     }
   ]
 }
