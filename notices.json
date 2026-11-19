@@ -1,8 +1,56 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-11-18T18:56:00.416918+00:00",
-  "status": "unavailable",
-  "count": 0,
-  "items": [],
-  "error": "403 Client Error: Forbidden for url: https://gamebulletin.nexon.com/mabinogi/inspection.aspx"
+  "updatedAt": "2026-11-19T00:54:02.205501+00:00",
+  "status": "ok",
+  "count": 8,
+  "items": [
+    {
+      "id": "4893936",
+      "title": "11/19(목) 정식 서버 점검 안내(03:00~12:00)",
+      "date": "2026.11.17",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893936"
+    },
+    {
+      "id": "4893935",
+      "title": "11/19(목) 정식 서버 패치 작업 변경점 안내",
+      "date": "2026.11.17",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893935"
+    },
+    {
+      "id": "4893924",
+      "title": "모모전 이벤트",
+      "date": "2026.11.12",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893924"
+    },
+    {
+      "id": "4893923",
+      "title": "소피 니트 박스",
+      "date": "2026.11.12",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893923"
+    },
+    {
+      "id": "4893917",
+      "title": "2026 마비노기 겨울 쇼케이스 'RE:MEMBER' 사전 안내",
+      "date": "2026.11.12",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893917"
+    },
+    {
+      "id": "4893742",
+      "title": "판의 출석체크판 안내",
+      "date": "2026.08.27",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
+    },
+    {
+      "id": "4893564",
+      "title": "마일리지 서비스 시즌11",
+      "date": "2026.06.11",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
+    }
+  ]
 }
