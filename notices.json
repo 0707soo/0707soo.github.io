@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-11-19T23:42:41.365934+00:00",
+  "updatedAt": "2026-11-20T04:58:52.502266+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -47,10 +47,10 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     },
     {
-      "id": "4893930",
-      "title": "2026 수능 온타임 이벤트",
-      "date": "2026.11.19",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893930"
+      "id": "4893940",
+      "title": "11/20(금) 운영정책 위반 단속 결과 안내",
+      "date": "2026.11.20",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893940"
     }
   ]
 }
