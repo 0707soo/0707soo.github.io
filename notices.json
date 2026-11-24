@@ -1,9 +1,21 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-11-24T02:41:06.957210+00:00",
+  "updatedAt": "2026-11-24T13:06:01.939696+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893945",
+      "title": "11/26(목) 정식 서버 점검 안내(06:00~11:30)",
+      "date": "2026.11.24",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893945"
+    },
+    {
+      "id": "4893930",
+      "title": "2026 수능 온타임 이벤트",
+      "date": "2026.11.19",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893930"
+    },
     {
       "id": "4893935",
       "title": "11/19(목) 정식 서버 패치 작업 변경점 안내",
@@ -39,18 +51,6 @@
       "title": "마일리지 서비스 시즌11",
       "date": "2026.06.11",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
-    },
-    {
-      "id": "4893487",
-      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
-      "date": "2026.04.26",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
-    },
-    {
-      "id": "4893940",
-      "title": "11/20(금) 운영정책 위반 단속 결과 안내",
-      "date": "2026.11.20",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893940"
     }
   ]
 }
