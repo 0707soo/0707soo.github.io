@@ -1,6 +1,6 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-11-25T05:32:38.016345+00:00",
+  "updatedAt": "2026-11-25T16:31:16.798118+00:00",
   "status": "ok",
   "count": 8,
   "items": [
@@ -29,12 +29,6 @@
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893924"
     },
     {
-      "id": "4893923",
-      "title": "소피 니트 박스",
-      "date": "2026.11.12",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893923"
-    },
-    {
       "id": "4893917",
       "title": "2026 마비노기 겨울 쇼케이스 'RE:MEMBER' 사전 안내",
       "date": "2026.11.12",
@@ -51,6 +45,12 @@
       "title": "마일리지 서비스 시즌11",
       "date": "2026.06.11",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
+    },
+    {
+      "id": "4893487",
+      "title": "2026년 4월 마비노기 커넥트 선물 쿠폰 안내",
+      "date": "2026.04.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893487"
     }
   ]
 }
