@@ -1,38 +1,38 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-11-26T00:46:19.115706+00:00",
+  "updatedAt": "2026-11-26T09:01:31.256654+00:00",
   "status": "ok",
   "count": 8,
   "items": [
     {
-      "id": "4893945",
-      "title": "11/26(목) 정식 서버 점검 안내(06:00~11:30)",
+      "id": "4893950",
+      "title": "2026년 12월 캐릭터 서버 이전, 낭만 농장/달빛 섬 이름 변경 서비스 진행일 안내",
+      "date": "2026.11.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893950"
+    },
+    {
+      "id": "4893948",
+      "title": "엘레노아 클래식 박스",
+      "date": "2026.11.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893948"
+    },
+    {
+      "id": "4893944",
+      "title": "마비노기 2026 겨울 쇼케이스 'RE:MEMBER' 방송 사전 안내",
+      "date": "2026.11.26",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893944"
+    },
+    {
+      "id": "4893946",
+      "title": "11/26(목) 정식 서버 패치 작업 변경점 안내",
       "date": "2026.11.24",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893945"
-    },
-    {
-      "id": "4893930",
-      "title": "2026 수능 온타임 이벤트",
-      "date": "2026.11.19",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893930"
-    },
-    {
-      "id": "4893935",
-      "title": "11/19(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.11.17",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893935"
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893946"
     },
     {
       "id": "4893924",
       "title": "모모전 이벤트",
       "date": "2026.11.12",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893924"
-    },
-    {
-      "id": "4893917",
-      "title": "2026 마비노기 겨울 쇼케이스 'RE:MEMBER' 사전 안내",
-      "date": "2026.11.12",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893917"
     },
     {
       "id": "4893742",
