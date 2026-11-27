@@ -1,9 +1,33 @@
 {
   "source": "https://mabinogi.nexon.com/page/news/notice_list.asp",
-  "updatedAt": "2026-11-27T11:05:09.403401+00:00",
+  "updatedAt": "2026-11-27T20:05:58.887484+00:00",
   "status": "ok",
   "count": 8,
   "items": [
+    {
+      "id": "4893939",
+      "title": "12/10(목) 세공 도구 상품 판매 종료 및 변경사항 안내",
+      "date": "2026.11.27",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893939"
+    },
+    {
+      "id": "4893938",
+      "title": "2026년 겨울 'RE:MEMBER' 쇼케이스 쿠폰 지급 안내",
+      "date": "2026.11.27",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893938"
+    },
+    {
+      "id": "4893921",
+      "title": "종막의 찬가를 준비하라!",
+      "date": "2026.11.27",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893921"
+    },
+    {
+      "id": "4893943",
+      "title": "G29 사전 이벤트",
+      "date": "2026.11.27",
+      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893943"
+    },
     {
       "id": "4893955",
       "title": "(내용추가3) 11/26(목) 패치 후 확인된 현상 안내",
@@ -27,30 +51,6 @@
       "title": "마비노기 2026 겨울 쇼케이스 'RE:MEMBER' 방송 사전 안내",
       "date": "2026.11.26",
       "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893944"
-    },
-    {
-      "id": "4893946",
-      "title": "11/26(목) 정식 서버 패치 작업 변경점 안내",
-      "date": "2026.11.24",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893946"
-    },
-    {
-      "id": "4893924",
-      "title": "모모전 이벤트",
-      "date": "2026.11.12",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893924"
-    },
-    {
-      "id": "4893742",
-      "title": "판의 출석체크판 안내",
-      "date": "2026.08.27",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893742"
-    },
-    {
-      "id": "4893564",
-      "title": "마일리지 서비스 시즌11",
-      "date": "2026.06.11",
-      "url": "https://mabinogi.nexon.com/page/news/notice_view.asp?id=4893564"
     }
   ]
 }
